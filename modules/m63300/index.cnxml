@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml" class="preface">
+<document xmlns="http://cnx.rice.edu/cnxml">
 <title>Preface</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m63300</md:content-id>
@@ -7,7 +7,7 @@
   <md:uuid>301d5176-9ace-4219-b44b-85dcf781e1e3</md:uuid>
 </metadata>
 
-<content class="preface">
+<content>
 <para id="fs-id1165926910741">Welcome to <emphasis effect="italics">Intermediate Algebra,</emphasis> an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.</para>
 <section id="fs-id1165926784292">
 <title>About OpenStax</title>
@@ -67,9 +67,11 @@ In Chapter 12, students are introduced to sequences, arithmetic sequences, geome
 <para id="fs-id1165926942559"><emphasis effect="bold">Examples</emphasis> Each learning objective is supported by one or more worked examples, which demonstrate the problem-solving approaches that students must master. Typically, we include multiple examples for each learning objective to model different approaches to the same type of problem, or to introduce similar problems of increasing complexity.</para>
 <para id="fs-id1165926838878">All examples follow a simple two- or three-part format. First, we pose a problem or question. Next, we demonstrate the solution, spelling out the steps along the way. Finally (for select examples), we show students how to check the solution. Most examples are written in a two-column format, with explanation on the left and math on the right to mimic the way that instructors “talk through” examples as they write on the board in class.</para>
 <para id="fs-id1165926560936"><emphasis effect="bold">Be Prepared!</emphasis> Each section, beginning with Section 2.1, starts with a few “Be Prepared!” exercises so that students can determine if they have mastered the prerequisite skills for the section. Reference is made to specific Examples from previous sections so students who need further review can easily find explanations. Answers to these exercises can be found in the supplemental resources that accompany this title.</para>
-<para id="fs-id1165926675738"><title>Try It</title><media id="eip-id11714388" alt="try-it">
+<para id="fs-id1165926675738"><title>Try It</title>
+<media id="eip-id11714388" alt="try-it">
 <image mime-type="image/png" src="../../media/tryit.png"/>
-</media> <emphasis effect="bold">Try it</emphasis> The Try It feature includes a pair of exercises that immediately follow an Example, providing the student with an immediate opportunity to solve a similar problem with an easy reference to the example. In the PDF and the Web View version of the text, answers to the Try It exercises are located in the Answer Key</para><para id="fs-id1166400262607"><title>How To</title>
+</media> <emphasis effect="bold">Try it</emphasis> The Try It feature includes a pair of exercises that immediately follow an Example, providing the student with an immediate opportunity to solve a similar problem with an easy reference to the example. In the Web View version of the text, students can click an Answer link directly below the question to check their understanding. In the PDF, answers to the Try It exercises are located in the Answer Key.</para>
+<para id="fs-id1166400262607"><title>How To</title>
 <media id="fs-id1166400341244" alt="how-to">
 <image mime-type="image/png" src="../../media/howtoicon.png"/>
 </media> <emphasis effect="bold">How To Examples</emphasis> use a three column format to demonstrate how to solve an example with a certain procedure. The first column states the formal step, the second column is in words as the teacher would explain the process, and then the third column is the actual math. A How To procedure box follows each of these How To examples and summarizes the series of steps from the example. These procedure boxes provide an easy reference for students.</para>

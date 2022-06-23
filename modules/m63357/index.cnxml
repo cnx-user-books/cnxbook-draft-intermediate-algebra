@@ -29,7 +29,7 @@ If you missed this problem, review <link target-id="fs-id1167829810683" document
 <title>Find the Greatest Common Factor of Two or More Expressions</title>
 <para id="fs-id1167835380264">Earlier we multiplied factors together to get a <term class="no-emphasis">product</term>. Now, we will reverse this process; we will start with a product and then break it down into its factors. Splitting a product into factors is called <term>factoring</term>.</para>
 <media id="fs-id1167834228697" alt="8 times 7 is 56. Here 8 and 7 are factors and 56 is the product. An arrow pointing from 8 times 7 to 56 is labeled multiply. An arrow pointing from 56 to 8 times 7 is labeled factor. 2x open parentheses x plus 3 close parentheses equals 2x squared plus 6x. Here the left side of the equation is labeled factors and the right side is labeled products.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_001_img.jpg"/>
 </media>
 <para id="fs-id1167835339323">We have learned how to factor numbers to find the least common multiple (LCM) of two or more numbers. Now we will factor expressions and find the <term>greatest common factor</term> of two or more expressions. The method we use is similar to what we used to find the LCM.</para>
 <note id="fs-id1167834092857">
@@ -117,16 +117,16 @@ If you missed this problem, review <link target-id="fs-id1167829810683" document
 </problem>
 <solution id="fs-id1167834494820">
 <media id="fs-id1167831920033" alt="Step 1 is find the GCF of all the terms in the polynomial. GCF of 8 m cubed, 12 m squared n and 20 mn squared is 4m.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003a.jpg"/>
 </media>
 <media id="fs-id1167835280158" alt="Step 1 is find the GCF of all the terms in the polynomial. GCF of 8 m cubed, 12 m squared n and 20 mn squared is 4m.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003b.jpg"/>
 </media>
 <media id="fs-id1167832046576" alt="In step 3, use the reverse Distributive Property to factor the expression as 4m open parentheses 2 m squared minus 3 mn plus 5 n squared close parentheses.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003c.jpg"/>
 </media>
 <media id="fs-id1167834464468" alt="Step 4 is to check by multiplying the factors. By multiplying the factors, we get the original polynomial.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_003d.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -414,16 +414,16 @@ If you missed this problem, review <link target-id="fs-id1167829810683" document
 </problem>
 <solution id="fs-id1167830873696">
 <media id="fs-id1167832060267" alt="Step 1 is to group the terms with common factors. There is no greatest common factor in all the four terms of xy plus 3y plus 2x plus 6. So, separate the first two terms from the second two.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010a.jpg"/>
 </media>
 <media id="fs-id1167835345071" alt="Step 2 is to factor out the common factor in each group. By factoring the GCF from the first 2 terms, we get y open parentheses x plus 3 close parentheses plus 2x plus 6. Factoring the GCF from the second 2 terms, we get y open parentheses x plus 3 close parentheses plus 2 open parentheses x plus 3 close parentheses.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010b.jpg"/>
 </media>
 <media id="fs-id1167835190796" alt="Step 3 is to factor the common factor from the expression. Notice that each term has a common factor of x plus 3. By factoring this out, we get open parentheses x plus 3 close parentheses open parentheses y plus 2 close parentheses">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010c.jpg"/>
 </media>
 <media id="fs-id1167835309409" alt="Step 4 is to check by multiplying the expressions to get the result xy plus 3y plus 2x plus 6.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_010d.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -702,7 +702,7 @@ The form on the left is used to multiply. The form on the right is used to facto
 <para id="fs-id1167835236137"><m:math><m:mrow><m:mn>−2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167835303487">
-<para id="fs-id1167835303489"><m:math><m:mrow><m:mn>−2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167835303489"><m:math><m:mrow><m:mn>−2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167834289446">
@@ -930,7 +930,7 @@ The form on the left is used to multiply. The form on the right is used to facto
 <title>Self Check</title>
 <para id="fs-id1167834238976"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167835514036" alt="This table has 4 columns, 3 rows and a header row. The header row labels each column I can, confidently, with some help and no I don’t get it. The first column has the following statements: find the greatest common factor of 2 or more expressions, factor the greatest common factor from a polynomial, factor by grouping. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_01_201_img.jpg"/>
 </media>
 <para id="fs-id1167831835712"><span class="token">ⓑ</span> If most of your checks were:</para>
 <para id="fs-id1167830960474"><emphasis effect="bold">…confidently.</emphasis> Congratulations! You have achieved your goals in this section! Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific!</para>

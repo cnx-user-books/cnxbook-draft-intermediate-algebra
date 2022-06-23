@@ -10,6 +10,7 @@
 </list></md:abstract>
   <md:uuid>93db7208-2f30-47df-91eb-33984d9fb8b7</md:uuid>
 </metadata>
+
 <content>
 <section id="fs-id1167836520787">
 <title>Recognize and Use the Appropriate Method to Factor a Polynomial Completely</title>
@@ -17,7 +18,7 @@
 <note id="fs-id1167836539386">
 <title>General Strategy for Factoring Polynomials</title>
 <media id="fs-id1167829720951" alt="This chart shows the general strategies for factoring polynomials. It shows ways to find GCF of binomials, trinomials and polynomials with more than 3 terms. For binomials, we have difference of squares: a squared minus b squared equals a minus b, a plus b; sum of squares do not factor; sub of cubes: a cubed plus b cubed equals open parentheses a plus b close parentheses open parentheses a squared minus ab plus b squared close parentheses; difference of cubes: a cubed minus b cubed equals open parentheses a minus b close parentheses open parentheses a squared plus ab plus b squared close parentheses. For trinomials, we have x squared plus bx plus c where we put x as a term in each factor and we have a squared plus bx plus c. Here, if a and c are squares, we have a plus b whole squared equals a squared plus 2 ab plus b squared and a minus b whole squared equals a squared minus 2 ab plus b squared. If a and c are not squares, we use the ac method. For polynomials with more than 3 terms, we use grouping.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_04_002_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_04_002_img.jpg"/>
 </media>
 </note>
 <note id="fs-id1167829714634" class="howto">
@@ -362,7 +363,7 @@ If it has more than three terms:
 <section id="fs-id1167836492307" class="key-concepts">
 <title>Key Concepts</title>
 <media id="fs-id1167836493157" alt="This chart shows the general strategies for factoring polynomials. It shows ways to find GCF of binomials, trinomials and polynomials with more than 3 terms. For binomials, we have difference of squares: a squared minus b squared equals a minus b, a plus b; sum of squares do not factor; sub of cubes: a cubed plus b cubed equals open parentheses a plus b close parentheses open parentheses a squared minus ab plus b squared close parentheses; difference of cubes: a cubed minus b cubed equals open parentheses a minus b close parentheses open parentheses a squared plus ab plus b squared close parentheses. For trinomials, we have x squared plus bx plus c where we put x as a term in each factor and we have a squared plus bx plus c. Here, if a and c are squares, we have a plus b whole squared equals a squared plus 2 ab plus b squared and a minus b whole squared equals a squared minus 2 ab plus b squared. If a and c are not squares, we use the ac method. For polynomials with more than 3 terms, we use grouping.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_04_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_04_001_img.jpg"/>
 </media>
 <list id="fs-id1167833071639" list-type="bulleted" bullet-style="bullet">
 <item><emphasis effect="bold">How to use a general strategy for factoring polynomials.</emphasis>
@@ -474,7 +475,7 @@ If it has more than three terms:
 <para id="fs-id1167836598240"><m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>81</m:mn><m:mi>x</m:mi><m:mi>y</m:mi></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167833139176">
-<para id="fs-id1167836692714"><m:math><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mi>y</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167836692714"><m:math><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836440214">
@@ -536,10 +537,10 @@ If it has more than three terms:
 </exercise>
 <exercise id="fs-id1167833057979">
 <problem id="fs-id1167833057981">
-<para id="fs-id1167833057983"><m:math><m:mrow><m:mn>4</m:mn><m:msup><m:mi>u</m:mi><m:mn>5</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>v</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+<para id="fs-id1167833057983"><m:math><m:mrow><m:mn>4</m:mn><m:msup><m:mi>u</m:mi><m:mn>5</m:mn></m:msup><m:mi>v</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>v</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836417887">
-<para id="fs-id1167836417889"><m:math><m:mrow><m:mn>4</m:mn><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167836417889"><m:math><m:mrow><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836681159">
@@ -627,10 +628,10 @@ If it has more than three terms:
 </exercise>
 <exercise id="fs-id1167836519068">
 <problem id="fs-id1167829716669">
-<para id="fs-id1167829716671"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167829716671"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167829578839">
-<para id="fs-id1167836606153"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:msup><m:mo>)</m:mo><m:mn>2</m:mn></m:msup></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167836606153"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836665128">
@@ -672,7 +673,7 @@ If it has more than three terms:
 <title>Self Check</title>
 <para id="fs-id1167829806981"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167829806988" alt="This table has 4 columns, 1 row and a header row. The header row labels each column: I can, confidently, with some help and no, I don’t get it. The first column has the following statement: recognize and use the appropriate method to factor a polynomial completely. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_04_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_04_201_img.jpg"/>
 </media>
 <para id="fs-id1167829714625"><span class="token">ⓑ</span> On a scale of 1-10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?</para>
 </section>

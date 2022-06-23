@@ -29,10 +29,12 @@
 <m:mtr><m:mtd columnalign="right"><m:mn>0.001</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1000</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>is “one thousandth”</m:mtext></m:mtd></m:mtr>
 <m:mtr><m:mtd columnalign="right"><m:mn>0.0001</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>10,000</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>is “one ten-thousandth”</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
 <para id="fs-id1167836334129">Just as in whole numbers, each digit of a decimal corresponds to the place value based on the powers of ten. <link target-id="CNX_IntAlg_Figure_01_04_023"/> shows the names of the place values to the left and right of the decimal point.</para>
-<figure id="CNX_IntAlg_Figure_01_04_023"><media id="fs-id1167829692275" alt="This table is labeled place value and has 12 columns. The seventh column is blank. Starting from here and going left the columns are labeled: ones, tens, hundreds, thousands, ten thousands, hundred thousands. Starting from the blank column and going right the columns are labeled: tenths, hundredths, thousandths, ten thousandths hundred thousandths. There is a dot under the blank column.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_023_img_new.jpg"/>
+<figure id="CNX_IntAlg_Figure_01_04_023">
+<media id="fs-id1167829692275" alt="This table is labeled place value and has 12 columns. The seventh column is blank. Starting from here and going left the columns are labeled: ones, tens, hundreds, thousands, ten thousands, hundred thousands. Starting from the blank column and going right the columns are labeled: tenths, hundredths, thousandths, ten thousandths hundred thousandths. There is a dot under the blank column.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_023.jpg"/>
 </media>
-</figure><para id="fs-id1167836578683">When we work with decimals, it is often necessary to round the number to the nearest required place value. We summarize the steps for rounding a decimal here.</para>
+</figure>
+<para id="fs-id1167836578683">When we work with decimals, it is often necessary to round the number to the nearest required place value. We summarize the steps for rounding a decimal here.</para>
 <note id="fs-id1167836543296" class="howto">
 <title>Round decimals.</title>
 <list id="fs-id1167836323236" list-type="enumerated" number-style="arabic" class="stepwise">
@@ -84,8 +86,10 @@
 </tgroup>
 </table></para>
 <para id="fs-id1167836416714"><span class="token">ⓑ</span> to the nearest tenth</para>
-<para id="fs-id1167836390512"><table id="fs-id1167829691732" class="unnumbered unstyled can-break" summary="Locate the tenths place with an arrow. In the number 18.379, the arrow points to 3. Underline the digit to the right of the given place value. Underline 7. Because 7 is greater than or equal to 5, add 1 to the 3. Rewrite the number, deleting all digits to the right of the rounding digit. Now we have 18.4. Notice that the deleted digits were NOT replaced with zeros. So, 18.379 rounded to the nearest tenth is 18.4."><label/>
-<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<para id="fs-id1167836390512"><table id="fs-id1167829691732" class="unnumbered unstyled can-break" summary="Locate the tenths place with an arrow. In the number 18.379, the arrow points to 3. Underline the digit to the right of the given place value. Underline 7. Because 7 is greater than or equal to 5, add 1 to the 3. Rewrite the number, deleting all digits to the right of the rounding digit. Now we have 18.4. Notice that the deleted digits were NOT replaced with zeros. So, 18.379 rounded to the nearest tenth is 18.4.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <tbody>
 <row valign="top">
@@ -98,7 +102,7 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Because 7 is greater than or equal to 5,<newline/>add 1 to the 3.</entry>
-<entry valign="top" align="left"><media id="fs-id1167829598222" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_002c_img_new.jpg"/></media></entry>
+<entry valign="top" align="left"><media id="fs-id1167829598222" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_002c_img.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Rewrite the number, deleting all digits to<newline/>the right of the rounding digit.</entry>
@@ -109,7 +113,6 @@
 <entry valign="top" align="left"><media id="fs-id1167836319802" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_002e_img.jpg"/></media></entry>
 </row>
 </tbody>
-
 </tgroup>
 </table></para>
 <para id="fs-id1167836620890"><span class="token">ⓒ</span> to the nearest whole number</para>
@@ -198,7 +201,7 @@
 <m:mtr><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>The difference will be negative. To subtract, we</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>subtract 14.65 from 20.</m:mtext></m:mtd></m:mtr></m:mtable></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr/>
 <m:mtr><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write the numbers so the decimal points line up</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>vertically.</m:mtext></m:mtd></m:mtr></m:mtable></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd columnalign="left"><m:mspace width="0.7em"/><m:mn>20</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mn>−14.65</m:mn></m:mrow><m:mo stretchy="true">______</m:mo></m:munder></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr><m:mtr/><m:mtr/>
 <m:mtr><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Remember, 20 is a whole number, so place the</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>decimal point after the 0.</m:mtext></m:mtd></m:mtr></m:mtable></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/>
-<m:mtr><m:mtd columnalign="left"><m:mtext>Put in zeros to the right as placeholders.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd><m:mspace width="0.5em"/><m:mn>20.00</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mn>−14.65</m:mn></m:mrow><m:mo stretchy="true">______</m:mo></m:munder></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr><m:mtr/><m:mtr/><m:mtr/>
+<m:mtr><m:mtd columnalign="left"><m:mtext>Put in zeros to the right as placeholders.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd><m:mspace width="0.5em"/><m:mn>20.00</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mn>−14.65</m:mn></m:mrow><m:mo stretchy="true">______</m:mo></m:munder></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr><m:mtr/><m:mtr/><m:mtr/>  
 <m:mtr><m:mtd columnalign="left"><m:mtext>Subtract and place the decimal point in the answer.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/>
 <m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd columnalign="right"><m:mn>9</m:mn></m:mtd><m:mtd/><m:mtd columnalign="right"><m:mn>9</m:mn></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>1</m:mn></m:mtd><m:mtd columnalign="right"><m:menclose notation="updiagonalstrike"><m:mn>10</m:mn></m:menclose></m:mtd><m:mtd/><m:mtd columnalign="right"><m:menclose notation="updiagonalstrike"><m:mn>10</m:mn></m:menclose></m:mtd><m:mtd columnalign="right"><m:mn>10</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>2</m:mn></m:mtd><m:mtd columnalign="right"><m:mn>0</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>.</m:mo></m:mtd><m:mtd columnalign="right"><m:mn>0</m:mn></m:mtd><m:mtd columnalign="right"><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>−1</m:mn></m:mtd><m:mtd columnalign="right"><m:mn>4</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>.</m:mo></m:mtd><m:mtd columnalign="right"><m:mn>6</m:mn></m:mtd><m:mtd columnalign="right"><m:mn>5</m:mn></m:mtd></m:mtr></m:mtable></m:mrow><m:mo stretchy="true">______________</m:mo></m:munder></m:mtd></m:mtr>
 <m:mtr><m:mtd columnalign="left"><m:mspace width="2em"/><m:mtable><m:mtr><m:mtd/><m:mtd columnalign="right"><m:mn>5</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>.</m:mo></m:mtd><m:mtd columnalign="right"><m:mspace width="0.7em"/><m:mn>3</m:mn></m:mtd><m:mtd columnalign="right"><m:mspace width="0.5em"/><m:mn>5</m:mn></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr><m:mtr/><m:mtr/><m:mtr/>
@@ -209,7 +212,7 @@
 <note id="fs-id1167833057966" class="try">
 <exercise id="fs-id1167836547290">
 <problem id="fs-id1167836620098">
-<para id="fs-id1167836484787">Add or subtract: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−4.8</m:mn><m:mo>−</m:mo><m:mn>11.69</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>9.58</m:mn><m:mo>−</m:mo><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1167836484787">Add or subtract: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−4.8</m:mn><m:mo>−</m:mo><m:mn>11.69</m:mn></m:mrow></m:math> <span class="token">ⓑ</span><m:math><m:mrow><m:mn>9.58</m:mn><m:mo>−</m:mo><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836622008">
 <para id="fs-id1167836283439"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−16.49</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−0.42</m:mn></m:mrow></m:math></para>
@@ -219,10 +222,10 @@
 <note id="fs-id1167836627381" class="try">
 <exercise id="fs-id1167836558181">
 <problem id="fs-id1167836391088">
-<para id="fs-id1167833018605">Add or subtract: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−5.123</m:mn><m:mo>−</m:mo><m:mn>18.47</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>37.42</m:mn><m:mo>−</m:mo><m:mn>50</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1167833018605">Add or subtract: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−5.123</m:mn><m:mo>−</m:mo><m:mn>18.47</m:mn></m:mrow></m:math> <span class="token">ⓑ</span><m:math><m:mrow><m:mn>37.42</m:mn><m:mo>−</m:mo><m:mn>50</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167833051205">
-<para id="fs-id1167836597977"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−23.593</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−12.58</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167836597977"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−23.593</m:mn></m:mrow></m:math> <span class="token">ⓑ</span><m:math><m:mrow><m:mn>−12.58</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 </note>
@@ -415,7 +418,7 @@
 <para id="fs-id1167836546040">Just as with multiplication, division of signed decimals is very much like dividing whole numbers. We just have to figure out where the decimal point must be placed and the sign of the quotient. When dividing signed decimals, first determine the sign of the quotient and then divide as if the numbers were both positive. Finally, write the quotient with the appropriate sign.</para>
 <para id="fs-id1167836518923">We review the notation and vocabulary for division:</para>
 <media id="fs-id1167836292139" alt="In the expression a divided by b equals c, a is the dividend, b is the divisor and c is the quotient. This can be written as b right parentheses a overbar, with c on top of the bar. In this case too, a is the dividend, b is the divisor and c is the quotient.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_024_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_024_img.jpg"/>
 </media>
 <para id="fs-id1167836288209">We’ll write the steps to take when dividing decimals for easy reference.</para>
 <note id="fs-id1167836521247" class="howto">
@@ -491,7 +494,9 @@
 </exercise>
 </note>
 </section>
-<section id="fs-id1167836518782"><title>Convert Decimals, Fractions, and Percents</title><para id="fs-id1167833397224">In our work, it is often necessary to change the form of a number. We may have to change fractions to decimals or decimals to percent.</para>
+<section id="fs-id1167836518782">
+<title>Convert Decimals, Fractions, and Percents</title>
+<para id="fs-id1167833397224">In our work, it is often necessary to change the form of a number. We may have to change fractions to decimals or decimals to percent.</para>
 <para id="fs-id1167829692288">We convert decimals into fractions by identifying the place value of the last (farthest right) digit. In the decimal <m:math><m:mrow><m:mn>0.03</m:mn><m:mo>.</m:mo></m:mrow></m:math> the 3 is in the hundredths place, so 100 is the denominator of the fraction equivalent to 0.03.</para>
 <equation id="fs-id1167836509769" class="unnumbered"><label/><m:math><m:mrow><m:mn>0.03</m:mn><m:mo>=</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
 <para id="fs-id1167836700940">The steps to take to convert a decimal to a fraction are summarized in the procedure box.</para>
@@ -549,7 +554,7 @@
 </table></para>
 <para id="fs-id1167829596870"><span class="token">ⓑ</span> Since a fraction bar means division, we begin by writing the fraction <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> as <m:math><m:mrow><m:mn>8</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>5.</m:mn></m:mrow></m:menclose></m:mrow></m:math> Now divide.</para>
 <para id="fs-id1167833368906"><media id="fs-id1167836619319" alt="The division shows that 5 is divided by 8 to yield 0.625. The result concludes that five eights is equal to negative 0.625.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_010_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_010_img.jpg"/>
 </media></para>
 </solution>
 </exercise>
@@ -560,7 +565,7 @@
 <para id="fs-id1167836704217">Write: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>0.234</m:mn></m:mrow></m:math> as a fraction <span class="token">ⓑ</span> <m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> as a decimal.</para>
 </problem>
 <solution id="fs-id1167833058998">
-<para id="fs-id1167833059000"> <span class="token">ⓐ</span> <m:math><m:mrow><m:mfrac><m:mrow><m:mn>117</m:mn></m:mrow><m:mrow><m:mn>500</m:mn></m:mrow></m:mfrac></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−0.875</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167833059000"> <span class="token">ⓐ</span><m:math><m:mrow><m:mfrac><m:mrow><m:mn>117</m:mn></m:mrow><m:mrow><m:mn>500</m:mn></m:mrow></m:mfrac></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−0.875</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 </note>
@@ -570,19 +575,19 @@
 <para id="fs-id1167836627845">Write: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>0.024</m:mn></m:mrow></m:math> as a fraction <span class="token">ⓑ</span> <m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> as a decimal.</para>
 </problem>
 <solution id="fs-id1167836620435">
-<para id="fs-id1167836620437"><span class="token">ⓐ</span> <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>125</m:mn></m:mrow></m:mfrac></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−0.375</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167836620437"><span class="token">ⓐ</span><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>125</m:mn></m:mrow></m:mfrac></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−0.375</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 </note>
 <para id="fs-id1167829593967">A <term>percent</term> is a ratio whose denominator is 100. Percent means per hundred. We use the percent symbol, %, to show percent. Since a percent is a ratio, it can easily be expressed as a fraction. Percent means per 100, so the denominator of the fraction is 100. We then change the fraction to a decimal by dividing the numerator by the denominator. After doing this many times, you may see the pattern.</para>
 <para id="fs-id1167836652793"><emphasis effect="italics">To convert a percent number to a decimal number, we move the decimal point two places to the left.</emphasis></para>
 <media id="fs-id1167836305345" alt="Figure shows the value 6 percent. An arrow indicates that the decimal is moved two places to the left. Hence the value is equal to 0.06. Similarly, 78 percent is 0.78, 2.7 percent is 0. 027 and 135 percent is 1.35.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_011_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_011_img.jpg"/>
 </media>
 <para id="fs-id1167836532690">To convert a decimal to a percent, remember that percent means per hundred. If we change the decimal to a fraction whose denominator is 100, it is easy to change that fraction to a percent. After many conversions, you may recognize the pattern.</para>
 <para id="fs-id1167836630567"><emphasis effect="italics">To convert a decimal to a percent, we move the decimal point two places to the right and then add the percent sign.</emphasis></para>
 <media id="fs-id1167836493675" alt="Figure shows value 0.05. An arrow indicates that the decimal is moved two places to the right. Hence the value becomes 5 percent. Similarly, 0.83 is 83 percent, 1.05 is 105 percent, 0.075 is 7.5 percent and 0.3 is 30 percent.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_012_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_012_img.jpg"/>
 </media>
 <note id="fs-id1167836551698" class="howto">
 <title>Convert a percent to a decimal and a decimal to a percent.</title>
@@ -662,7 +667,8 @@
 </solution>
 </exercise>
 </note>
-</section><section id="fs-id1167836609894">
+</section>
+<section id="fs-id1167836609894">
 <title>Simplify Expressions with Square Roots</title>
 <para id="fs-id1167833396879">Remember that when a number <m:math><m:mi>n</m:mi></m:math> is multiplied by itself, we write <m:math><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and read it “<m:math><m:mi>n</m:mi></m:math> squared.” The result is called the <term>square of a number</term> <emphasis effect="italics">n</emphasis>. For example, <m:math><m:mrow><m:msup><m:mn>8</m:mn><m:mn>2</m:mn></m:msup></m:mrow></m:math> is read “8 squared” and 64 is called the <emphasis effect="italics">square</emphasis> of 8. Similarly, 121 is the square of 11 because <m:math><m:mrow><m:msup><m:mrow><m:mn>11</m:mn></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math> is 121. It will be helpful to learn to recognize the perfect square numbers.</para>
 <note id="fs-id1167836699183">
@@ -681,7 +687,7 @@
 <title>Square Root Notation</title>
 <para id="fs-id1167836707363"><m:math><m:mrow><m:msqrt><m:mi>m</m:mi></m:msqrt></m:mrow></m:math> is read “the square root of <m:math><m:mi>m</m:mi></m:math>.”</para>
 <media id="fs-id1167829715458" alt="Figure shows the expression square root of m. The square root sign is labeled radical sign and m is labeled radicand.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_015_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_015_img.jpg"/>
 </media>
 <para id="fs-id1167836549955">If <m:math><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> then <m:math><m:mrow><m:msqrt><m:mi>m</m:mi></m:msqrt><m:mo>=</m:mo><m:mi>n</m:mi><m:mo>,</m:mo></m:mrow></m:math> for <m:math><m:mrow><m:mi>n</m:mi><m:mo>≥</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167836620491">The square root of <emphasis effect="italics">m</emphasis>, <m:math><m:mrow><m:msqrt><m:mi>m</m:mi></m:msqrt><m:mo>,</m:mo></m:mrow></m:math> is the positive number whose square is <emphasis effect="italics">m</emphasis>.</para>
@@ -769,11 +775,13 @@
 <para id="fs-id1167829717421">A <emphasis effect="bold">real number</emphasis> is a number that is either rational or irrational.</para>
 </note>
 <para id="fs-id1167836698829">Later in this course we will introduce numbers beyond the real numbers. <link target-id="CNX_IntAlg_Figure_01_04_016"/> illustrates how the number sets we’ve used so far fit together.</para>
-<figure id="CNX_IntAlg_Figure_01_04_016"><media id="fs-id1167836447242" alt="A chart shows that counting numbers 1, 2, 3 are a part of whole numbers 0, 1, 2, 3. Whole numbers are a part of integers minus 2, minus 1, 0, 1, 2. Integers are a part of rational numbers. Rational numbers along with irrational numbers form the set of real numbers.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_016_img_new.jpg"/>
+<figure id="CNX_IntAlg_Figure_01_04_016">
+<media id="fs-id1167836447242" alt="A chart shows that counting numbers 1, 2, 3 are a part of whole numbers 0, 1, 2, 3. Whole numbers are a part of integers minus 2, minus 1, 0, 1, 2. Integers are a part of rational numbers. Rational numbers along with irrational numbers form the set of real numbers.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_016.jpg"/>
 </media>
-
-<caption>This chart shows the number sets that make up the set of real numbers.</caption></figure><para id="fs-id1167829624381">Does the term “real numbers” seem strange to you? Are there any numbers that are not “real,” and, if so, what could they be? Can we simplify <m:math><m:mrow><m:msqrt><m:mrow><m:mn>−25</m:mn></m:mrow></m:msqrt><m:mo>?</m:mo></m:mrow></m:math> Is there a number whose square is <m:math><m:mrow><m:mn>−25</m:mn><m:mo>?</m:mo></m:mrow></m:math></para>
+<caption>This chart shows the number sets that make up the set of real numbers.</caption>
+</figure>
+<para id="fs-id1167829624381">Does the term “real numbers” seem strange to you? Are there any numbers that are not “real,” and, if so, what could they be? Can we simplify <m:math><m:mrow><m:msqrt><m:mrow><m:mn>−25</m:mn></m:mrow></m:msqrt><m:mo>?</m:mo></m:mrow></m:math> Is there a number whose square is <m:math><m:mrow><m:mn>−25</m:mn><m:mo>?</m:mo></m:mrow></m:math></para>
 <equation id="fs-id1167832981655" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mspace width="0.2em"/><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>−25</m:mn><m:mo>?</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1167833054419">None of the numbers that we have dealt with so far has a square that is <m:math><m:mrow><m:mn>−25</m:mn><m:mo>.</m:mo></m:mrow></m:math> Why? Any positive number squared is positive. Any negative number squared is positive. So we say there is no real number equal to <m:math><m:mrow><m:msqrt><m:mrow><m:mn>−25</m:mn></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math> The square root of a negative number is not a real number.</para>
 <example id="fs-id1167836546317">
@@ -820,10 +828,12 @@
 <para id="fs-id1167829717102">Finally, look at the improper fractions <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Locating these points may be easier if you change each of them to a mixed number.</para>
 <equation id="fs-id1167836619278" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mspace width="2.5em"/><m:mo>−</m:mo><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>−4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="2.5em"/><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></equation>
 <para id="fs-id1167829714506"><link target-id="CNX_IntAlg_Figure_01_04_017"/> shows the number line with all the points plotted.</para>
-<figure id="CNX_IntAlg_Figure_01_04_017"><media id="fs-id1167829714516" alt="Figure shows a number line with numbers ranging from minus 6 to 6. Various points on the line are highlighted. From left to right, these are: minus 5, minus 9 by 2, minus 4 by 5, 1 by 5, 4 by 5, 8 by 3 and 3.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_017_img_new.jpg"/>
+<figure id="CNX_IntAlg_Figure_01_04_017">
+<media id="fs-id1167829714516" alt="Figure shows a number line with numbers ranging from minus 6 to 6. Various points on the line are highlighted. From left to right, these are: minus 5, minus 9 by 2, minus 4 by 5, 1 by 5, 4 by 5, 8 by 3 and 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_017.jpg"/>
 </media>
-</figure><example id="fs-id1167832940593">
+</figure>
+<example id="fs-id1167832940593">
 <exercise id="fs-id1167832940595">
 <problem id="fs-id1167832940597">
 <para id="fs-id1167832940599">Locate and label the following on a number line: <m:math><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>−3</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
@@ -832,10 +842,12 @@
 <para id="fs-id1167829720662">Locate and plot the integers, <m:math><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>−3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167829627594">Locate the proper fraction <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> first. The fraction <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> is between 0 and 1. Divide the distance between 0 and 1 into four equal parts, then we plot <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Similarly plot <m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167829627782">Now locate the improper fractions <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> It is easier to plot them if we convert them to mixed numbers and then plot them as described above: <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>−2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
-<para id="fs-id1167836508768"><media id="fs-id1167836508770" alt="Figure shows a number line with numbers ranging from minus 6 to 6. Various points on the line are highlighted. From left to right, these are: minus 3, minus 5 by 2, minus 1 by 4, 3 by 4, 6 by 5, 7 by 3 and 4.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_018_img_new.jpg"/>
+<para id="fs-id1167836508768">
+<media id="fs-id1167836508770" alt="Figure shows a number line with numbers ranging from minus 6 to 6. Various points on the line are highlighted. From left to right, these are: minus 3, minus 5 by 2, minus 1 by 4, 3 by 4, 6 by 5, 7 by 3 and 4.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_018.jpg"/>
 </media>
-</para></solution>
+</para>
+</solution>
 </exercise>
 </example>
 <note id="fs-id1167836508289" class="try">
@@ -844,10 +856,12 @@
 <para id="fs-id1167829719005">Locate and label the following on a number line: <m:math><m:mrow><m:mn>−1</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836551739">
-<para id="fs-id1167836551741"><media id="fs-id1167836551743" alt="Figure shows a number line with numbers ranging from minus 4 to 5. Various points on the line are highlighted. From left to right, these are: minus 8 by 3, minus 7 by 4, minus 1, 1 by 3, 6 by 5, 9 by 2 and 5.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_301_img_new.jpg"/>
+<para id="fs-id1167836551741">
+<media id="fs-id1167836551743" alt="Figure shows a number line with numbers ranging from minus 4 to 5. Various points on the line are highlighted. From left to right, these are: minus 8 by 3, minus 7 by 4, minus 1, 1 by 3, 6 by 5, 9 by 2 and 5.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_301_img.jpg"/>
 </media>
-</para></solution>
+</para>
+</solution>
 </exercise>
 </note>
 <note id="fs-id1167836620594" class="try">
@@ -856,10 +870,12 @@
 <para id="fs-id1167829718132">Locate and label the following on a number line: <m:math><m:mrow><m:mn>−2</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167829579971">
-<para id="fs-id1167829579974"><media id="fs-id1167829590318" alt="Figure shows a number line with numbers ranging from minus 4 to 5. Various points on the line are highlighted. From left to right, these are: minus 7 by 3, minus 2, minus 7 by 4, 2 by 3, 7 by 5, 3 and 7 by 2.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_302_img_new.jpg"/>
+<para id="fs-id1167829579974">
+<media id="fs-id1167829590318" alt="Figure shows a number line with numbers ranging from minus 4 to 5. Various points on the line are highlighted. From left to right, these are: minus 7 by 3, minus 2, minus 7 by 4, 2 by 3, 7 by 5, 3 and 7 by 2.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_302.jpg"/>
 </media>
-</para></solution>
+</para>
+</solution>
 </exercise>
 </note>
 <para id="fs-id1167836595922">Since decimals are forms of fractions, locating decimals on the number line is similar to locating fractions on the number line.</para>
@@ -870,14 +886,18 @@
 </problem>
 <solution id="fs-id1167833224821">
 <para id="fs-id1167833224824"><span class="token">ⓐ</span> The decimal number 0.4 is equivalent to <m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> a proper fraction, so 0.4 is located between 0 and 1. On a number line, divide the interval between 0 and 1 into 10 equal parts. Now label the parts 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0. We write 0 as 0.0 and 1 as 1.0, so that the numbers are consistently in tenths. Finally, mark 0.4 on the number line.<newline/><newline/></para>
-<para id="fs-id1167836398915"><media id="fs-id1167836398917" alt="Figure shows a number line with numbers ranging from 0.0 to 1. 0.4 is highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_021_img_new.jpg"/>
+<para id="fs-id1167836398915">
+<media id="fs-id1167836398917" alt="Figure shows a number line with numbers ranging from 0.0 to 1. 0.4 is highlighted.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_021_img.jpg"/>
 </media><newline/><newline/>
-</para><para id="fs-id1167836398929"><span class="token">ⓑ</span> The decimal <m:math><m:mrow><m:mn>−0.74</m:mn></m:mrow></m:math> is equivalent to <m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>74</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> so it is located between 0 and <m:math><m:mrow><m:mn>−1</m:mn><m:mo>.</m:mo></m:mrow></m:math> On a number line, mark off and label the hundredths in the interval between 0 and <m:math><m:mrow><m:mn>−1</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/><newline/></para>
-<para id="fs-id1167829721125"><media id="fs-id1167829721127" alt="Figure shows a number line with numbers ranging from minus 1.00 to 0.00. Minus 0.74 is highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_022_img_new.jpg"/>
+</para>
+<para id="fs-id1167836398929"><span class="token">ⓑ</span> The decimal <m:math><m:mrow><m:mn>−0.74</m:mn></m:mrow></m:math> is equivalent to <m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>74</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> so it is located between 0 and <m:math><m:mrow><m:mn>−1</m:mn><m:mo>.</m:mo></m:mrow></m:math> On a number line, mark off and label the hundredths in the interval between 0 and <m:math><m:mrow><m:mn>−1</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/><newline/></para>
+<para id="fs-id1167829721125">
+<media id="fs-id1167829721127" alt="Figure shows a number line with numbers ranging from minus 1.00 to 0.00. Minus 0.74 is highlighted.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_022_img.jpg"/>
 </media>
-</para></solution>
+</para>
+</solution>
 </exercise>
 </example>
 <note id="fs-id1167836597144" class="try">
@@ -887,14 +907,18 @@
 </problem>
 <solution id="fs-id1167833369143">
 <para id="fs-id1167833369145"><span class="token">ⓐ</span></para>
-<para id="fs-id1167833369152"><media id="fs-id1167833369154" alt="Figure shows a number line with numbers ranging from 0 to 1. 0.6 is highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_303_img_new.jpg"/>
+<para id="fs-id1167833369152">
+<media id="fs-id1167833369154" alt="Figure shows a number line with numbers ranging from 0 to 1. 0.6 is highlighted.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_303_img.jpg"/>
 </media>
-</para><para id="fs-id1167829719042"><span class="token">ⓑ</span></para>
-<para id="fs-id1167829719049"><media id="fs-id1167829719051" alt="Figure shows a number line with numbers ranging from minus 1.00 to 0.00. Minus 0.74 is highlighted, minus 0.25 is highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_304_img_new.jpg"/>
+</para>
+<para id="fs-id1167829719042"><span class="token">ⓑ</span></para>
+<para id="fs-id1167829719049">
+<media id="fs-id1167829719051" alt="Figure shows a number line with numbers ranging from minus 1.00 to 0.00. Minus 0.74 is highlighted, minus 0.25 is highlighted.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_304_img.jpg"/>
 </media>
-</para></solution>
+</para>
+</solution>
 </exercise>
 </note>
 <note id="fs-id1167829627506" class="try">
@@ -904,13 +928,16 @@
 </problem>
 <solution id="fs-id1167829714677">
 <para id="fs-id1167836613683"><span class="token">ⓐ</span></para>
-<para id="fs-id1167836613688"><media id="fs-id1167836613691" alt="Figure shows a number line with numbers ranging from 0 to 1. 0.9 is highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_305_img_new.jpg"/>
+<para id="fs-id1167836613688">
+<media id="fs-id1167836613691" alt="Figure shows a number line with numbers ranging from 0 to 1. 0.9 is highlighted.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_305_img.jpg"/>
 </media>
-</para><para id="fs-id1167829717744"><span class="token">ⓑ</span></para>
+</para>
+<para id="fs-id1167829717744"><span class="token">ⓑ</span></para>
 <para id="fs-id1167829717750"><media id="fs-id1167829717751" alt="Figure shows a number line with numbers ranging from minus 1.00 to 0.00. Minus 0.74 is highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_306_img_new.jpg"/>
-</media></para></solution>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_306_img.jpg"/>
+</media></para>
+</solution>
 </exercise>
 </note>
 <note id="fs-id1167836698527" class="media-2">
@@ -987,8 +1014,9 @@ If the decimal form of a number<newline/>
 <item><emphasis effect="italics">does not repeat and does not stop</emphasis>, the number is an irrational number.</item>
 </list></item>
 <item><emphasis effect="bold">Real Numbers</emphasis>
-<figure id="CNX_IntAlg_Figure_01_04_016a"><media id="fs-id1167829691173" alt="A chart shows that counting numbers 1, 2, 3 are a part of whole numbers 0, 1, 2, 3. Whole numbers are a part of integers minus 2, minus 1, 0, 1, 2. Integers are a part of rational numbers. Rational numbers along with irrational numbers form the set of real numbers.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_016_img_new.jpg"/>
+<figure id="CNX_IntAlg_Figure_01_04_016a">
+<media id="fs-id1167829691173" alt="A chart shows that counting numbers 1, 2, 3 are a part of whole numbers 0, 1, 2, 3. Whole numbers are a part of integers minus 2, minus 1, 0, 1, 2. Integers are a part of rational numbers. Rational numbers along with irrational numbers form the set of real numbers.">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_016.jpg"/>
 </media>
 </figure></item>
 </list>
@@ -1424,7 +1452,7 @@ If the decimal form of a number<newline/>
 <solution id="fs-id1167833412462">
 <para id="fs-id1167833412465">
 <media id="fs-id1167833412467" alt="Figure shows a number line with numbers ranging from 0 to 6. Some values are highlighted. From left to right, these are: 3 by 10, 11 by 6, 7 by 2 and 4.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_307_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_307_img.jpg"/>
 </media>
 </para>
 </solution>
@@ -1440,7 +1468,7 @@ If the decimal form of a number<newline/>
 </problem>
 <solution id="fs-id1167829719936">
 <para id="fs-id1167829719938"><media id="fs-id1167829719939" alt="Figure shows a number line with numbers ranging from minus 4 to 4. Some values are highlighted. From left to right, these are: minus 5 by 2, minus 1 and two thirds, minus 3 by 4, 3 by 4, 1 and two thirds, and 5 by 2.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_309_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_309_img.jpg"/>
 </media></para>
 </solution>
 </exercise>
@@ -1455,7 +1483,7 @@ If the decimal form of a number<newline/>
 </problem>
 <solution id="fs-id1167836399691">
 <para id="fs-id1167836399693"><media id="fs-id1167836399694" alt="Figure shows a number line with numbers ranging from minus 4 to 4. Two values are highlighted. One is between minus 2 and minus 1. The other is between 0 and 1.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_311_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_311_img.jpg"/>
 </media></para>
 </solution>
 </exercise>
@@ -1470,7 +1498,7 @@ If the decimal form of a number<newline/>
 </problem>
 <solution id="fs-id1167836399887">
 <para id="fs-id1167836399889"><media id="fs-id1167836399890" alt="Figure shows a number line with numbers ranging from minus 4 to 4. Two values are highlighted. One is between minus 2 and minus 1. The other is between 3 and 4.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_313_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_313_img.jpg"/>
 </media></para>
 </solution>
 </exercise>
@@ -1513,7 +1541,7 @@ If the decimal form of a number<newline/>
 <title>Self Check</title>
 <para id="fs-id1167833240032"><span class="token">ⓐ</span> Use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167833240046" alt="This table has 4 columns, 6 rows and a header row. The header row labels each column: I can, confidently, with some help and no, I don’t get it. The statements in the first column are: round decimals, add and subtract decimals, multiply and divide decimals, convert decimals, fractions and percents, simplify expressions with square roots, identify integers, rational numbers, irrational numbers and real numbers, locate fractions and decimals on the number line. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_215_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_04_215_img.jpg"/>
 </media>
 <para id="fs-id1167833240055"><span class="token">ⓑ</span> On a scale of 1-10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?</para>
 </section>

@@ -23,9 +23,10 @@
 </note>
 <section id="fs-id1167832051980">
 <title>Simplify Expressions with Absolute Value</title>
-<para id="fs-id1167835321040">A <term>negative number</term> is a number less than 0. The negative numbers are to the left of zero on the number line. See <link target-id="CNX_IntAlg_Figure_01_02_001"/>.</para><figure id="CNX_IntAlg_Figure_01_02_001">
+<para id="fs-id1167835321040">A <term>negative numbers</term> is a number less than 0. The negative numbers are to the left of zero on the number line. See <link target-id="CNX_IntAlg_Figure_01_02_001"/>.</para>
+<figure id="CNX_IntAlg_Figure_01_02_001">
 <media id="fs-id1167835325238" alt="Figure shows a horizontal line marked with numbers at equal distances. At the center of the line is 0. To the right of this, starting from the number closest to 0 are 1, 2, 3 and 4. These are labeled positive numbers. To the left of 0, starting from the number closest to 0 are minus 1, minus 2, minus 3 and minus 4. These are labeled negative numbers.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_001.jpg"/>
 </media>
 <caption>The number line shows the location of positive and negative numbers.</caption>
 </figure>
@@ -37,7 +38,7 @@
 <para id="fs-id1167835368578"><link target-id="CNX_IntAlg_Figure_01_02_002"/> illustrates the definition.</para>
 <figure id="CNX_IntAlg_Figure_01_02_002">
 <media id="fs-id1167834195463" alt="Figure shows a number line with the numbers 3 and minus 3 highlighted. These are equidistant from 0, both being 3 numbers away from 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_002_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_002.jpg"/>
 </media>
 <caption>The opposite of 3 is <m:math><m:mrow><m:mn>−3</m:mn></m:mrow></m:math>.</caption>
 </figure>
@@ -58,7 +59,7 @@
 <para id="fs-id1167834464240"><link target-id="CNX_IntAlg_Figure_01_02_003"/> illustrates this idea.</para>
 <figure id="CNX_IntAlg_Figure_01_02_003">
 <media id="fs-id1167834439195" alt="Figure shows a number line showing the numbers 0, 5 and minus 5. 5 and minus 5 are equidistant from 0, both being 5 units away from 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_003_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_003.jpg"/>
 </media>
 <caption>The numbers 5 and <m:math><m:mrow><m:mn>−5</m:mn></m:mrow></m:math> are 5 units away from 0.</caption>
 </figure>
@@ -73,7 +74,7 @@
 </problem>
 <solution id="fs-id1167835301570">
 <para id="fs-id1167835380308"><span class="token">ⓐ</span><newline/>
-<m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="2.5em"/><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mtd><m:mtd columnalign="center"><m:mo>__</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mtd></m:mtr>
+<m:math><m:mrow><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="2.5em"/><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mtd><m:mtd columnalign="center"><m:mo>__</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mtd></m:mtr>
 <m:mtr><m:mtd columnalign="left"><m:mtext>Simplify.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="2.5em"/><m:mn>5</m:mn></m:mtd><m:mtd columnalign="center"><m:mo>__</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>−</m:mo><m:mn>5</m:mn></m:mtd></m:mtr>
 <m:mtr><m:mtd columnalign="left"><m:mtext>Order.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="2.5em"/><m:mn>5</m:mn></m:mtd><m:mtd columnalign="center"><m:mo>&gt;</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>−</m:mo><m:mn>5</m:mn></m:mtd></m:mtr>
 <m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="2.5em"/><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mtd><m:mtd columnalign="center"><m:mo>&gt;</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
@@ -178,11 +179,11 @@
 <para id="fs-id1167835213624">We will use two color counters to model addition and subtraction of negatives so that you can visualize the procedures instead of memorizing the rules.</para>
 <para id="fs-id1167835311335">We let one color (blue) represent positive. The other color (red) will represent the negatives.</para>
 <media id="fs-id1167835309360" alt="Figure show two circles labeled positive blue and negative red.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_004_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_004_img.jpg"/>
 </media>
 <para id="fs-id1167835309409">If we have one positive counter and one negative counter, the value of the pair is zero. They form a neutral pair. The value of this neutral pair is zero.</para>
 <media id="fs-id1167835309392" alt="Figure shows a blue circle and a red circle encircled in a larger shape. This is labeled 1 plus minus 1 equals 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_005_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_005_img.jpg"/>
 </media>
 <para id="fs-id1167835350247">We will use the counters to show how to add:</para>
 <equation id="fs-id1167832076598" class="unnumbered"><label/><m:math><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="3em"/><m:mn>−5</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="3em"/><m:mn>5</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
@@ -193,12 +194,12 @@
 <para id="fs-id1167835303389">The second example, <m:math><m:mrow><m:mn>−5</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> adds 5 negatives and 3 negatives—both negatives.</para>
 <para id="fs-id1167835191059">When the signs are the same, the counters are all the same color, and so we add them. In each case we get 8—either 8 positives or 8 negatives.</para>
 <media id="fs-id1167835190851" alt="Figure on the left is labeled 5 plus 3. It shows 8 blue circles. 5 plus 3 equals 8. Figure on the right is labeled minus 5 plus open parentheses minus 3 close parentheses. It shows 8 blue circles labeled 8 negatives. Minus 5 plus open parentheses minus 3 close parentheses equals minus 8.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_006_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_006_img.jpg"/>
 </media>
 <para id="fs-id1167831934032">So what happens when the signs are different? Let’s add <m:math><m:mrow><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167835346415">When we use counters to model addition of positive and negative integers, it is easy to see whether there are more positive or more negative counters. So we know whether the sum will be positive or negative.</para>
 <media id="fs-id1167835346024" alt="Figure on the left is labeled minus 5 plus 3. It has 5 red circles and 3 blue circles. Three pairs of red and blue circles are formed. More negatives means the sum is negative. The figure on the right is labeled 5 plus minus 3. It has 5 blue and 3 red circles. Three pairs of red and blue circles are formed. More positives means the sum is positive.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_007_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_007_img.jpg"/>
 </media>
 <example id="fs-id1167835365552">
 <exercise id="fs-id1167834190186">
@@ -346,11 +347,11 @@
 <para id="fs-id1167832053392">In the second example, <m:math><m:mrow><m:mn>−5</m:mn><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> we subtract 3 negatives from 5 negatives and end up with 2 negatives.</para>
 <para id="fs-id1167834536601">Each example used counters of only one color, and the “take away” model of subtraction was easy to apply.</para>
 <media id="fs-id1167834282821" alt="Figure on the left is labeled 5 minus 3 equals 2. There are 5 blue circles. Three of these are encircled and an arrow indicates that they are taken away. The figure on the right is labeled minus 5 minus open parentheses minus 3 close parentheses equals minus 2. There are 5 red circles. Three of these are encircled and an arrow indicates that they are taken away.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_011_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_011_img.jpg"/>
 </media>
 <para id="fs-id1167835348640">What happens when we have to subtract one positive and one negative number? We’ll need to use both blue and red counters as well as some neutral pairs. If we don’t have the number of counters needed to take away, we add neutral pairs. Adding a neutral pair does not change the value. It is like changing quarters to nickels—the value is the same, but it looks different.</para>
 <para id="fs-id1167835370956">Let’s look at <m:math><m:mrow><m:mn>−5</m:mn><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
-<table id="fs-id1167834536310" summary="Calculations of two expressions are shown. The expression on the left is minus 5 minus 3. The expression on the right is 5 minus open parentheses minus 3 close parentheses. We first model the first number. So, we have 5 red counters on the left and 5 white counters on the right. We now add three neutral pairs for both expressions. So we have 8 red and 3 white counters on the left and 8 white and 3 red counters on the right. We now remove the number of counters modeled by the second number. Three white counters are removed from the left and three red counters are removed from the right. We now have eight red counters on the left and 8 white counters on the right. Hence, minus 5 minus 3, on the left, is minus 8, whereas 5 minus minus 3, on the right, is 8." class="unnumbered unstyled can-break has-images"><label/>
+<table id="fs-id1167834536310" summary="Calculations of two expressions are shown. The expression on the left is minus 5 minus 3. The expression on the right is 5 minus open parentheses minus 3 close parentheses. We first model the first number. So, we have 5 red counters on the left and 5 white counters on the right. We now add three neutral pairs for both expressions. So we have 8 red and 3 white counters on the left and 8 white and 3 red counters on the right. We now remove the number of counters modeled by the second number. Three white counters are removed from the left and three red counters are removed from the right. We now have eight red counters on the left and 8 white counters on the right. Hence, minus 5 minus 3, on the left, is minus 8, whereas 5 minus minus 3, on the right, is 8." class="unnumbered unstyled can-break"><label/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -682,11 +683,11 @@
 <para id="fs-id1167826804678">Since multiplication is mathematical shorthand for repeated addition, our model can easily be applied to show multiplication of integers. Let’s look at this concrete model to see what patterns we notice. We will use the same examples that we used for addition and subtraction. Here, we are using the model just to help us discover the pattern.</para>
 <para id="fs-id1167834505365">We remember that <m:math><m:mrow><m:mi>a</m:mi><m:mo>·</m:mo><m:mi>b</m:mi></m:mrow></m:math> means <emphasis effect="bold">add</emphasis> <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis> <emphasis effect="bold">times</emphasis>.</para>
 <media id="fs-id1167834222458" alt="The figure on the left is labeled 5 dot 3. Here, we need to add 5, 3 times. Three rows of five blue counters each are shown. This makes 15 positives. Hence, 5 times 3 is 15. The figure on the right is labeled minus 5 open parentheses 3 close parentheses. Here we need to add minus 5, 3 times. Three rows of five red counters each are shown. This makes 15 negatives. Hence, minus 5 times 3 is minus 15.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_020_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_020_img.jpg"/>
 </media>
 <para id="fs-id1167834183356">The next two examples are more interesting. What does it mean to multiply 5 by <m:math><m:mrow><m:mn>−3</m:mn><m:mo>?</m:mo></m:mrow></m:math> It means subtract <m:math><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>3</m:mn></m:mrow></m:math> times. Looking at subtraction as “taking away”, it means to take away 5, 3 times. But there is nothing to take away, so we start by adding neutral pairs on the workspace.</para>
 <media id="fs-id1167831881942" alt="The figure on the left is labeled 5 open parentheses minus 3 close parentheses. We need to take away 5, three times. Three rows of five positive counters each and three rows of five negative counters each are shown. What is left is 15 negatives. Hence, 5 times minus 3 is minus 15. The figure on the right is labeled open parentheses minus 5 close parentheses open parentheses minus 3 close parentheses. We need to take away minus 5, three times. Three rows of five positive counters each and three rows of five negative counters each are shown. What is left is 15 positives. Hence, minus 5 times minus 3 is 15.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_021_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_021_img.jpg"/>
 </media>
 <para id="fs-id1167834556774">In summary:</para>
 <equation id="fs-id1167834556777" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>15</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>−5</m:mn><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−15</m:mn></m:mtd></m:mtr>
@@ -772,7 +773,7 @@
 <note id="fs-id1167834428912" class="try">
 <exercise id="fs-id1167834345685">
 <problem id="fs-id1167834345687">
-<para id="fs-id1167834345689">Multiply or divide: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−115</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>12</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>9</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−63</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1167834345689">Multiply or divide: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−115</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>12</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>9</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span><m:math><m:mrow><m:mn>−63</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167834422894">
 <para id="fs-id1167834422896"><span class="token">ⓐ</span> 23 <span class="token">ⓑ</span> 60 <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>−63</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−9</m:mn></m:mrow></m:math></para>
@@ -782,7 +783,7 @@
 <note id="fs-id1167826804652" class="try">
 <exercise id="fs-id1167826804656">
 <problem id="fs-id1167826804658">
-<para id="fs-id1167834539469">Multiply or divide: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−117</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>13</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>7</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−42</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1167834539469">Multiply or divide: <span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−117</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>13</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>7</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span><m:math><m:mrow><m:mn>−42</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167831880276">
 <para id="fs-id1167831882554"><span class="token">ⓐ</span> 39 <span class="token">ⓑ</span> 39 <span class="token">ⓒ</span> −28 <span class="token">ⓓ</span> −7</para>
@@ -1027,27 +1028,27 @@
 <problem id="fs-id1167834537848">
 <para id="fs-id1167834537850">The temperature in Kendallville, Indiana one morning was 11 degrees. By mid-afternoon, the temperature had dropped to <m:math><m:mrow><m:mn>−9</m:mn></m:mrow></m:math> degrees. What was the difference in the morning and afternoon temperatures?</para>
 <media id="fs-id1167832076198" alt="Figure shows a glass thermometer, with temperature markings ranging from minus 10 to 30. Two markings are highlighted, minus 9 degrees C and 11 degrees C.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_016_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_016_img.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1167834182486">
 <media id="fs-id1167834182489" alt="Step 1 is to read the problem and make sure all the words and ideas are understood.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017a_img.jpg"/>
 </media>
 <media id="fs-id1167831881150" alt="Step 2 is to identify what we are asked to find. Here, we need to find the difference of the morning and afternoon temperatures.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017b_img.jpg"/>
 </media>
 <media id="fs-id1167831881162" alt="Step 3 is to write a phrase that gives the information to find it. In this case, the phrase is the difference of 11 and minus 9.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017c_img.jpg"/>
 </media>
 <media id="fs-id1167835511995" alt="Step 4 is to translate the phrase to an expression. Here, we write 11 minus open parentheses minus 9 close parentheses.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017d_img.jpg"/>
 </media>
 <media id="fs-id1167835512007" alt="In step 5, we simplify the expression to get 20.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017e_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017e_img.jpg"/>
 </media>
 <media id="fs-id1167832068492" alt="Step 6 is to answer the question with a complete sentence: The difference in temperatures was 20 degrees.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017f_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_017f_img.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -1427,7 +1428,7 @@ Multiplying a number by <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> give
 </exercise>
 <exercise id="fs-id1167835575498" class="material-set-2">
 <problem id="fs-id1167835575500">
-<para id="fs-id1167835575502"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−28</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−180</m:mn><m:mo>÷</m:mo><m:mn>15</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−13</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−1</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−14</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167835575502"><newline/><span class="token">ⓐ</span><m:math><m:mrow><m:mn>−28</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span><m:math><m:mrow><m:mn>−180</m:mn><m:mo>÷</m:mo><m:mn>15</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−13</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−1</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−14</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167831881018">
 <para id="fs-id1167831881020"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−4</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−12</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>−39</m:mn></m:mrow></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math></para>
@@ -1644,7 +1645,7 @@ Multiplying a number by <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> give
 <para id="fs-id1167835519114"><newline/><span class="token">ⓐ</span> the difference of <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>−18</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> subtract <m:math><m:mrow><m:mn>11</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>−25</m:mn></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167835519149">
-<para id="fs-id1167835519151"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>10</m:mn><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−18</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>;</m:mo><m:mn>28</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−25</m:mn><m:mo>−</m:mo><m:mn>11</m:mn><m:mo>;</m:mo><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167835519151"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>10</m:mn><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−18</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>;</m:mo><m:mn>28</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span><m:math><m:mrow><m:mn>−25</m:mn><m:mo>−</m:mo><m:mn>11</m:mn><m:mo>;</m:mo><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167835519200">
@@ -1737,7 +1738,7 @@ Multiplying a number by <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> give
 <title>Self Check</title>
 <para id="fs-id1167834537619"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167834537635" alt="This table has 4 columns, 6 rows and a header row. The header row labels each column I can, confidently, with some help and no, I don’t get it. The first column has the following statements: simplify expressions with absolute value, add and subtract integers, multiply and divide integers, simplify and evaluate expressions with integers, translate English phrases to algebraic expressions, use integers in applications. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_02_201_img.jpg"/>
 </media>
 <para id="fs-id1167834537643"><span class="token">ⓑ</span> After reviewing this checklist, what will you do to become confident for all objectives?</para>
 </section>

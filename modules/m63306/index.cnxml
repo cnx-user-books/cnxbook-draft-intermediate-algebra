@@ -133,18 +133,19 @@
 <title>Identity Property</title>
 <equation id="fs-id1167836450689" class="unnumbered"><label/><m:math><m:mrow><m:mtable>
 <m:mtr><m:mtd columnalign="left"><m:mstyle mathvariant="bold"><m:mtext>of Addition</m:mtext></m:mstyle><m:mspace width="1em"/><m:mtext>For any real number</m:mtext><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>:</m:mo><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn><m:mo>+</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr>
-<m:mtr><m:mtd columnalign="left"><m:mspace width="1.5em"/><m:mstyle mathvariant="bold"><m:mn>0</m:mn></m:mstyle><m:mspace width="0.2em"/><m:mtext>is the</m:mtext><m:mspace width="0.2em"/><m:mstyle mathvariant="bold"><m:mtext>additive identity</m:mtext></m:mstyle></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr>
+<m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mspace width="1.5em"/><m:mstyle mathvariant="bold"><m:mn>0</m:mn></m:mstyle><m:mspace width="0.2em"/><m:mtext>is the</m:mtext><m:mspace width="0.2em"/><m:mstyle mathvariant="bold"><m:mtext>additive identity</m:mtext></m:mstyle></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr>
 <m:mtr><m:mtd columnalign="left"><m:mstyle mathvariant="bold"><m:mtext>of Multiplication</m:mtext></m:mstyle><m:mspace width="1em"/><m:mtext>For any real number</m:mtext><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>:</m:mo><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1</m:mn><m:mo>·</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr>
-<m:mtr><m:mtd columnalign="left"><m:mspace width="1.5em"/><m:mstyle mathvariant="bold"><m:mn>1</m:mn></m:mstyle><m:mspace width="0.2em"/><m:mtext>is the</m:mtext><m:mspace width="0.2em"/><m:mstyle mathvariant="bold"><m:mtext>multiplicative identity</m:mtext></m:mstyle></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation></note>
+<m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mspace width="1.5em"/><m:mstyle mathvariant="bold"><m:mn>1</m:mn></m:mstyle><m:mspace width="0.2em"/><m:mtext>is the</m:mtext><m:mspace width="0.2em"/><m:mstyle mathvariant="bold"><m:mtext>multiplicative identity</m:mtext></m:mstyle></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+</note>
 <para id="fs-id1167836508516">What number added to 5 gives the additive identity, 0? We know</para>
 <media id="fs-id1167836526175" alt="Figure shows the expression 5 plus open parentheses minus 5 close parentheses equals 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_001_img.jpg"/>
 </media>
 <para id="fs-id1167836622524">The missing number was the opposite of the number!</para>
 <para id="fs-id1167836494025">We call <m:math><m:mrow><m:mtext>−</m:mtext><m:mi>a</m:mi></m:mrow></m:math> the <term>additive inverse</term> of <m:math><m:mrow><m:mi>a</m:mi><m:mo>.</m:mo></m:mrow></m:math> <emphasis effect="italics">The opposite of a number is its additive inverse.</emphasis> A number and its opposite add to zero, which is the additive identity. This leads to the <term>Inverse Property of Addition</term> that states for any real number <m:math><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>a</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167829683739">What number multiplied by <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> gives the multiplicative identity, 1? In other words, <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> times what results in 1? We know</para>
 <media id="fs-id1167832936412" alt="2 by 3 times 3 by 2 equals 1.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_002_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_002_img.jpg"/>
 </media>
 <para id="fs-id1167836399056">The missing number was the reciprocal of the number!</para>
 <para id="fs-id1167836398962">We call <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>a</m:mi></m:mfrac></m:mrow></m:math> the <term>multiplicative inverse </term>of <emphasis effect="italics">a</emphasis>. <emphasis effect="italics">The reciprocal of a number is its multiplicative inverse.</emphasis> This leads to the <term>Inverse Property of Multiplication</term> that states that for any real number <m:math><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>a</m:mi><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
@@ -164,7 +165,7 @@
 <para id="fs-id1167829790526">We can check division with the related multiplication fact. So we know <m:math><m:mrow><m:mn>0</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> because <m:math><m:mrow><m:mn>0</m:mn><m:mo>·</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167836510545">Now think about dividing <emphasis effect="italics">by</emphasis> zero. What is the result of dividing 4 by <m:math><m:mrow><m:mn>0</m:mn><m:mo>?</m:mo></m:mrow></m:math> Think about the related multiplication fact:</para>
 <media id="fs-id1167829599708" alt="4 divided by 0 equals question mark means question mark times 0 equals 4.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_003_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_003_img.jpg"/>
 </media>
 <para id="fs-id1167836551653">Is there a number that multiplied by 0 gives <m:math><m:mrow><m:mn>4</m:mn><m:mo>?</m:mo></m:mrow></m:math> Since any real number multiplied by 0 gives 0, there is no real number that can be multiplied by 0 to obtain 4. We conclude that there is no answer to <m:math><m:mrow><m:mn>4</m:mn><m:mo>÷</m:mo><m:mn>0</m:mn></m:mrow></m:math> and so we say that division by 0 is <emphasis effect="bold">undefined</emphasis>.</para>
 <para id="fs-id1167833412568">We summarize the properties of zero here.</para>
@@ -280,7 +281,7 @@
 <note id="fs-id1167829717685" class="try">
 <exercise id="fs-id1167829739185">
 <problem id="fs-id1167829739187">
-<para id="fs-id1167829739190">Simplify: <span class="token">ⓐ</span> <m:math><m:mrow><m:mfrac><m:mn>0</m:mn><m:mrow><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>4</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>q</m:mi></m:mrow><m:mn>0</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mn>15</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>q</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1167829739190">Simplify: <span class="token">ⓐ</span><m:math><m:mrow><m:mfrac><m:mn>0</m:mn><m:mrow><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>4</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>q</m:mi></m:mrow><m:mn>0</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mn>15</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>q</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167829739262">
 <para id="fs-id1167829739264"><span class="token">ⓐ</span> 0 <span class="token">ⓑ</span> undefined</para>
@@ -336,7 +337,7 @@
 </note>
 <para id="fs-id1167829788406">Some students find it helpful to draw in arrows to remind them how to use the Distributive Property. Then the first step in <link target-id="fs-id1167829789060"/> would look like this:</para>
 <media id="fs-id1167829788411" alt="The expression is 3 open parentheses x plus 4 close parentheses. Two arrows originate from 3. One points to x, the other to 4.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_004_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_004_img.jpg"/>
 </media>
 <example id="fs-id1167829788421">
 <exercise id="fs-id1167829788423">
@@ -1188,7 +1189,7 @@
 <title>Self Check</title>
 <para id="fs-id1167829755914"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167829755925" alt="This table has 4 columns, 3 rows and a header row. The header row labels each column I can, confidently, with some help and no, I don’t get it. The first column has the following statements: use the commutative and associative properties, use the properties of identity, inverse and zero, simplify expressions using the Distributive Property. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_201_img.jpg"/>
 </media>
 <para id="fs-id1167829755937"><span class="token">ⓑ</span> After reviewing this checklist, what will you do to become confident for all objectives?</para>
 </section>
@@ -1339,10 +1340,10 @@
 <para id="fs-id1167829741161">In the following exercise, multiply or divide.</para>
 <exercise id="fs-id1167829741165">
 <problem id="fs-id1167829741167">
-<para id="fs-id1167829741169"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−27</m:mn><m:mo>÷</m:mo><m:mn>9</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>120</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>4</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−14</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−1</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−17</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167829741169"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−27</m:mn><m:mo>÷</m:mo><m:mn>9</m:mn></m:mrow></m:math> <span class="token">ⓑ</span><m:math><m:mrow><m:mn>120</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>4</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−14</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−1</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−17</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167829741245">
-<para id="fs-id1167829741248"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−3</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−15</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>−56</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> 17</para>
+<para id="fs-id1167829741248"><span class="token">ⓐ</span><m:math><m:mrow><m:mn>−3</m:mn></m:mrow></m:math> <span class="token">ⓑ</span><m:math><m:mrow><m:mn>−15</m:mn></m:mrow></m:math> <span class="token">ⓒ</span><m:math><m:mrow><m:mn>−56</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> 17</para>
 </solution>
 </exercise>
 <para id="fs-id1167829598888"><emphasis effect="bold">Simplify and Evaluate Expressions with Integers</emphasis></para>
@@ -1661,7 +1662,7 @@
 <solution id="fs-id1167829751221">
 <para id="fs-id1167829751223">
 <media id="fs-id1167829751225" alt="Figure shows a number line with numbers ranging from minus 4 to 4. Some values are highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_301_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_301_img.jpg"/>
 </media>
 </para>
 </solution>
@@ -1834,7 +1835,7 @@
 <solution id="fs-id1167829931149">
 <para id="fs-id1167829931151">
 <media id="fs-id1167829931153" alt="Figure shows a number line with numbers ranging from minus 4 to 4. Some values are highlighted.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_303_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_05_303_img.jpg"/>
 </media>
 </para>
 </solution>
@@ -1941,7 +1942,7 @@
 <para id="fs-id1167829747765"><m:math><m:mrow><m:mn>−8</m:mn><m:mo>÷</m:mo><m:mn>0.05</m:mn></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167829747777">
-<para id="fs-id1167829747779">−160</para>
+<para id="fs-id1167829747779">160</para>
 </solution>
 </exercise>
 <exercise id="fs-id1167829747785">

@@ -30,7 +30,7 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <title>Factor Perfect Square Trinomials</title>
 <para id="fs-id1167831970023">Some trinomials are perfect squares. They result from multiplying a binomial times itself. We squared a binomial using the Binomial Squares pattern in a previous chapter.</para>
 <media id="fs-id1167835187907" alt="In open parentheses 3x plus 4 close parentheses squared, 3x is a and 4 is b. Writing it as a squared plus 2ab plus b squared, we get open parentheses 3x close parentheses squared plus 2 times 3x times 4 plus 4 squared. This is equal to 9 x squared plus 24x plus 16.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_001_img.jpg"/>
 </media>
 <para id="fs-id1167834061478">The trinomial <m:math><m:mrow><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>24</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:math> is called a <emphasis effect="italics">perfect square trinomial</emphasis>. It is the square of the binomial <m:math><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167835367325">In this chapter, you will start with a perfect square trinomial and factor it into its <term class="no-emphasis">prime</term> factors.</para>
@@ -50,13 +50,13 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 </problem>
 <solution id="fs-id1167835306597">
 <media id="fs-id1167835322243" alt="Step 1 is to check if the trinomial fits the perfect square trinomials pattern, a squared plus 2ab plus b squared. For this we check if the first term is a perfect square. 9 x squared is the square of 3x. Next we check if the last term is a perfect square. 4 is the square of 2. Next we check if the middle term is 2ab. 12 x is twice 3x times 2. Hence we have a perfect square trinomial.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_002a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_002a.jpg"/>
 </media>
 <media id="fs-id1167835335949" alt="Step 2 is to write this as the square of a binomial. We write it as open parentheses 3x plus 2 close parentheses squared.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_002b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_002b.jpg"/>
 </media>
 <media id="fs-id1167835356199" alt="Step 3 is to check by multiplying.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_002c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_002c.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -280,14 +280,14 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <title>Factor Differences of Squares</title>
 <para id="fs-id1167834185224">The other special product you saw in the previous chapter was the Product of Conjugates pattern. You used this to multiply two binomials that were conjugates. Here’s an example:</para>
 <media id="fs-id1167826987977" alt="We have open parentheses 3x minus 4 close parentheses open parentheses 3x plus 4. This is of the form a minus b, a plus b. We rewrite as open parentheses 3x close parentheses squared minus 4 squared. Here, 3x is a and 4 is b. This is equal to 9 x squared minus 16.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_006_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_006_img.jpg"/>
 </media>
 <para id="fs-id1167835288119">A difference of squares factors to a product of conjugates.</para>
 <note id="fs-id1167834063594">
 <title>Difference of Squares Pattern</title>
 <para id="fs-id1167834124313">If <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> are real numbers,</para>
 <media id="fs-id1167832058183" alt="a squared minus b squared equals a minus b, a plus b. Here, a squared minus b squared is difference of squares and a minus b, a plus b are conjugates.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_007_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_007_img.jpg"/>
 </media>
 </note>
 <para id="fs-id1167826857435">Remember, “difference” refers to subtraction. So, to use this pattern you must make sure you have a binomial in which two squares are being subtracted.</para>
@@ -299,16 +299,16 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 </problem>
 <solution id="fs-id1167832226786">
 <media id="fs-id1167835344526" alt="Step 1 is to check if the binomial 64 y squared minus 1 fits the pattern. For that we check the following: Is this a difference? Yes. Are the first and last terms perfect squares? Yes.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008a.jpg"/>
 </media>
 <media id="fs-id1167835417524" alt="Step 2 is to write both terms as squares, So, we have open parentheses 8y close parentheses squared minus 1 squared.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008b.jpg"/>
 </media>
 <media id="fs-id1167835380209" alt="Step 3 is to write the product of conjugates 8y minus 1, 8y plus 1.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008c.jpg"/>
 </media>
 <media id="fs-id1167832075154" alt="Step 4 is to check. We multiply to get the original binomial">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_008d.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -509,10 +509,11 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 </note>
 <para id="fs-id1167835483694">The two patterns look very similar, don’t they? But notice the signs in the factors. The sign of the binomial factor matches the sign in the original binomial. And the sign of the middle term of the trinomial factor is the opposite of the sign in the original binomial. If you recognize the pattern of the signs, it may help you memorize the patterns.</para>
 <media id="fs-id1167835483696" alt="a cubed plus b cubed is open parentheses a plus b close parentheses open parentheses a squared minus ab plus b squared close parentheses. a cubed minus b cubed is open parentheses a minus close parentheses open parentheses a squared plus ab plus b squared close parentheses. In both cases, the sign of the first term on the right side of the equation is the same as the sign on the left side of the equation and the sign of the second term is the opposite of the sign on the left side.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_011_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_011_img.jpg"/>
 </media>
 <para id="fs-id1167834133012">The trinomial factor in the sum and difference of cubes pattern cannot be factored.</para>
-<para id="fs-id1167834133016">It will be very helpful if you learn to recognize the cubes of the integers from 1 to 10, just like you have learned to recognize squares. We have listed the cubes of the integers from 1 to 10 in <link target-id="fs-id1167835337696"/>.</para><table id="fs-id1167835337696" summary="This table has 11 columns and 2 columns. The first column labels each row n and n cubed. The remaining columns of the first row have the numbers 1 through 10. The remaining columns of the second row have the numbers 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000.">
+<para id="fs-id1167834133016">It be very helpful if you learn to recognize the cubes of the integers from 1 to 10, just like you have learned to recognize squares. We have listed the cubes of the integers from 1 to 10 in <link target-id="fs-id1167835337696"/>.</para>
+<table id="fs-id1167835337696" summary="This table has 11 columns and 2 columns. The first column labels each row n and n cubed. The remaining columns of the first row have the numbers 1 through 10. The remaining columns of the second row have the numbers 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000.">
 <tgroup cols="11">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -565,19 +566,19 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 </problem>
 <solution id="fs-id1167834516173">
 <media id="fs-id1167834516175" alt="Step 1 is to check if the binomial fits the sum or difference of cubes pattern. For this, we check whether it is a sum or difference. x cubed plus 64 is a sum. Next we check if the first and last terms are perfect cubes. They are">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012a.jpg"/>
 </media>
 <media id="fs-id1167826986850" alt="Step 2 is to rewrite as cubes. So we rewrite as x cubed plus 4 cubed.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012b.jpg"/>
 </media>
 <media id="fs-id1167831881792" alt="Step 3 is to use either the sum or difference of cubes pattern. Since this is a sum of cubes, we get open parentheses x plus 4 close parentheses open parentheses x squared minus 4x plus 4 squared.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012c.jpg"/>
 </media>
 <media id="fs-id1167834367159" alt="Step 4 is to simplify inside the parentheses. It is already simplified">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012d.jpg"/>
 </media>
 <media id="fs-id1167834192367" alt="Step 5 is to check by multiplying the factors.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012e_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_012e.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -660,7 +661,8 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <para id="fs-id1167834345967">Factor: <m:math><m:mrow><m:mn>8</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>27</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167834131074">
-<para id="fs-id1167834534784"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>x</m:mi><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></solution>
+<para id="fs-id1167834534784"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>x</m:mi><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</solution>
 </exercise>
 </note>
 <note id="fs-id1167831894757" class="try">
@@ -669,7 +671,8 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <para id="fs-id1167831040264">Factor: <m:math><m:mrow><m:mn>1000</m:mn><m:msup><m:mi>m</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>125</m:mn><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167832053341">
-<para id="fs-id1167832053343"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>n</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>100</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>50</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>25</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></solution>
+<para id="fs-id1167832053343"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>n</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>100</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>50</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>25</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</solution>
 </exercise>
 </note>
 <para id="fs-id1167834534369">In the next example, we first factor out the GCF. Then we can recognize the sum of cubes.</para>
@@ -827,7 +830,7 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <m:mtr><m:mtd columnalign="left"><m:mtext>Step 3.</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/></m:mtr></m:mtable></m:mrow></m:math></item>
 <item><emphasis effect="bold">Difference of Squares Pattern:</emphasis> If <m:math><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi></m:mrow></m:math> are real numbers,<newline/>
 <media id="fs-id1167830701187" alt="a squared minus b squared is a minus b, a plus b. Here, a squared minus b squared is the difference of squares and a minus b, a plus b are conjugates.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_016_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_016_img.jpg"/>
 </media></item>
 <item><emphasis effect="bold">How to factor differences of squares.</emphasis><newline/>
 <m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Step 1.</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Does the binomial fit the pattern?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mspace width="4em"/><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>Is this a difference?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mspace width="4em"/><m:mtext>____</m:mtext><m:mo>−</m:mo><m:mtext>____</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>Are the first and last terms perfect squares?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Step 2.</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Write them as squares.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mspace width="4em"/><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mi>b</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Step 3.</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Write the product of conjugates.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mspace width="4em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Step 4.</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr></m:mtable></m:mrow></m:math></item>
@@ -915,13 +918,16 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 </exercise>
 <exercise id="fs-id1167835376744">
 <problem id="fs-id1167835351862">
-<para id="fs-id1167835351865"><m:math><m:mrow><m:mn>100</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>20</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para></problem>
+<para id="fs-id1167835351865"><m:math><m:mrow><m:mn>100</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>52</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</problem>
 <solution id="fs-id1167831895344">
-<para id="fs-id1167831895346"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:msup><m:mo>)</m:mo><m:mn>2</m:mn></m:msup></m:mrow></m:mrow></m:math></para></solution>
+<para id="fs-id1167831895346"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>50</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</solution>
 </exercise>
 <exercise id="fs-id1167830865346">
 <problem id="fs-id1167830865348">
-<para id="fs-id1167830865351"><m:math><m:mrow><m:mn>64</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para></problem>
+<para id="fs-id1167830865351"><m:math><m:mrow><m:mn>64</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>34</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</problem>
 </exercise>
 <exercise id="fs-id1167834120730">
 <problem id="fs-id1167834120732">
@@ -946,7 +952,8 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 </exercise>
 <exercise id="fs-id1167835410277">
 <problem id="fs-id1167835410279">
-<para id="fs-id1167832211896"><m:math><m:mrow><m:mn>90</m:mn><m:msup><m:mi>p</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>300</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>250</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para></problem>
+<para id="fs-id1167832211896"><m:math><m:mrow><m:mn>90</m:mn><m:msup><m:mi>p</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>300</m:mn><m:msup><m:mi>p</m:mi><m:mn>4</m:mn></m:msup><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>250</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
 </exercise>
 <para id="fs-id1167832006550"><emphasis effect="bold">Factor Differences of Squares</emphasis></para>
 <para id="fs-id1167832006555">In the following exercises, factor completely using the difference of squares pattern, if possible.</para>
@@ -968,7 +975,7 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <para id="fs-id1167835489436"><m:math><m:mrow><m:mn>4</m:mn><m:mo>−</m:mo><m:mn>49</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167834533145">
-<para id="fs-id1167834533147"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-id1167834533147"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167835258483">
@@ -1178,7 +1185,7 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <para id="fs-id1167834373432"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167834289482">
-<para id="fs-id1167834289484"><m:math><m:mrow><m:mn>9</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167834289484"><m:math><m:mrow><m:mn>−9</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167831071390">
@@ -1339,7 +1346,7 @@ If you missed this problem, review <link target-id="fs-id1167836717042" document
 <title>Self Check</title>
 <para id="fs-id1167832151241"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167831919620" alt="This table has 4 columns 3 rows and a header row. The header row labels each column I can, confidently, with some help and no, I don’t get it. The first column has the following statements: factor perfect square trinomials, factor differences of squares, factor sums and differences of cubes. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_03_201_img.jpg"/>
 </media>
 <para id="fs-id1167831919631"><span class="token">ⓑ</span> What does this checklist tell you about your mastery of this section? What steps will you take to improve?</para>
 </section>

@@ -24,11 +24,11 @@
 <title>Find Factors, Prime Factorizations, and Least Common Multiples</title>
 <para id="fs-id1167836334858">The numbers 2, 4, 6, 8, 10, 12 are called multiples of 2. A <term>multiple</term> of 2 can be written as the product of a counting number and 2.</para>
 <media id="fs-id1167836376102" alt="Multiples of 2: 2 times 1 is 2, 2 times 2 is 4, 2 times 3 is 6, 2 times 4 is 8, 2 times 5 is 10, 2 times 6 is 12 and so on.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_001_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_001_img.jpg"/>
 </media>
 <para id="fs-id1167836349436">Similarly, a multiple of 3 would be the product of a counting number and 3.</para>
 <media id="fs-id1167836282492" alt="Multiples of 3: 3 times 1 is 3, 3 times 2 is 6, 3 times 3 is 9, 3 times 4 is 12, 3 times 5 is 15, 3 times 6 is 18 and so on.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_002_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_002_img.jpg"/>
 </media>
 <para id="fs-id1167836360898">We could find the multiples of any number by continuing this process.</para>
 <table id="fs-id1167836545969" class="unnumbered" summary="This table has 13 columns, 8 rows and a header row. The header row labels each column: counting number, 1, 2, 3, 4, 5, 6, 7, 8, 9. The first column labels each row: multiples of 2, multiples of 3, multiples of 4, multiples of 5, multiples of 6, multiples of 7, multiples of 8, multiples of 9. The column labeled 1 has the following values: 2, 3, 4, 5, 6, 7, 8, 9. The column labeled 2 has the following values: 4, 6, 8, 10, 12, 14, 16, 18. The column labeled 3 has the following values: 6, 9, 12, 15, 18, 21, 24, 27. The column labeled 4 has the following values: 8, 12, 16, 20, 24, 28, 32, 36. The column labeled 5 has the following values: 10, 15, 20, 25, 30, 35, 40, 45. The column labeled 6 has the following values: 12, 18, 24, 30, 36, 42, 48, 54. The column labeled 7 has the following values: 14, 21, 28, 35, 42, 49, 56, 63. The column labeled 8 has the following values: 16, 24, 32, 40, 48, 56, 64, 72. The column labeled 9 has the following values: 18, 27, 36, 45, 54, 63, 72, 81. The column labeled 10 has the following values: 20, 30, 40, 50, 60, 70, 80, 90. The column labeled 11 has the following values: 22, 33, 44, 55, 66, 77, 88, 99. The column labeled 12 has the following values: 24, 36, 48, 60, 72, 84, 96, 108.">
@@ -213,10 +213,10 @@
 </problem>
 <solution id="fs-id1167836579398">
 <list id="fs-id1167836510387" list-type="enumerated" number-style="arabic" class="circled">
-<item><span class="token">ⓐ</span> <m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 2?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>Does it end in 0, 2, 4, 6 or 8?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>No.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>5,625 is not divisible by 2.</m:mtext></m:mtd></m:mtr></m:mtable></m:math><newline/><newline/></item>
-<item><span class="token">ⓑ</span> <m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 3?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>What is the sum of the digits?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>18</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Is the sum divisible by 3?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>Yes.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>5,625 is divisible by 3.</m:mtext></m:mtd></m:mtr></m:mtable></m:math><newline/><newline/></item>
-<item><span class="token">ⓒ</span> <m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 5 or 10?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>What is the last digit? It is 5.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>5,625 is divisible by 5 but not by 10.</m:mtext></m:mtd></m:mtr></m:mtable></m:math><newline/><newline/></item>
-<item><span class="token">ⓓ</span> <m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 6?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>Is it divisible by both 2 and 3?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>No, 5,625 is not divisible by 2, so 5,625 is</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>not divisible by 6.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></item>
+<item><span class="token">ⓐ</span><newline/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 2?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>Does it end in 0, 2, 4, 6 or 8?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>No.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>5,625 is not divisible by 2.</m:mtext></m:mtd></m:mtr></m:mtable></m:math><newline/><newline/></item>
+<item><span class="token">ⓑ</span><newline/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 3?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>What is the sum of the digits?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>18</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Is the sum divisible by 3?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>Yes.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>5,625 is divisible by 3.</m:mtext></m:mtd></m:mtr></m:mtable></m:math><newline/><newline/></item>
+<item><span class="token">ⓒ</span><newline/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 5 or 10?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>What is the last digit? It is 5.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>5,625 is divisible by 5 but not by 10.</m:mtext></m:mtd></m:mtr></m:mtable></m:math><newline/><newline/></item>
+<item><span class="token">ⓓ</span><newline/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Is 5,625 divisible by 6?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>Is it divisible by both 2 and 3?</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>No, 5,625 is not divisible by 2, so 5,625 is</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="4em"/><m:mtext>not divisible by 6.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></item>
 </list>
 </solution>
 </exercise>
@@ -244,7 +244,7 @@
 <para id="fs-id1167836511506">In mathematics, there are often several ways to talk about the same ideas. So far, we’ve seen that if <emphasis effect="italics">m</emphasis> is a multiple of <emphasis effect="italics">n</emphasis>, we can say that <emphasis effect="italics">m</emphasis> is divisible by <emphasis effect="italics">n</emphasis>. For example, since 72 is a multiple of 8, we say 72 is divisible by 8. Since 72 is a multiple of 9, we say 72 is divisible by 9. We can express this still another way.</para>
 <para id="fs-id1167836612806">Since <m:math><m:mrow><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>72</m:mn><m:mo>,</m:mo></m:mrow></m:math> we say that 8 and 9 are <term>factors</term> of 72. When we write <m:math><m:mrow><m:mn>72</m:mn><m:mo>=</m:mo><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>9</m:mn><m:mo>,</m:mo></m:mrow></m:math> we say we have factored 72.</para>
 <media id="fs-id1167833056551" alt="8 times 9 is 72. 8 and 9 are factors. 72 is the product.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_003_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_003_img.jpg"/>
 </media>
 <para id="fs-id1167836387255">Other ways to factor 72 are <m:math><m:mrow><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>72</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>36</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>24</m:mn><m:mo>,</m:mo><m:mspace width="0.8em"/><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>18</m:mn><m:mo>,</m:mo></m:mrow></m:math> and <m:math><m:mrow><m:mn>6</m:mn><m:mo>·</m:mo><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math> The number 72 has many factors: <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>12</m:mn><m:mo>,</m:mo><m:mn>18</m:mn><m:mo>,</m:mo><m:mn>24</m:mn><m:mo>,</m:mo><m:mn>36</m:mn><m:mo>,</m:mo></m:mrow></m:math> and <m:math><m:mrow><m:mn>72</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <note id="fs-id1167836539545">
@@ -255,10 +255,11 @@
 <note id="fs-id1167836410498">
 <title>Prime number and Composite number</title>
 <para id="fs-id1167836538134">A <emphasis effect="bold">prime number</emphasis> is a counting number greater than 1 whose only factors are 1 and the number itself.</para>
-<para id="fs-id1167829695314">A <emphasis effect="bold">composite number</emphasis> is a counting number greater than 1 that is not prime. A composite number has factors other than 1 and the number itself.</para></note>
+<para id="fs-id1167829695314">A <emphasis effect="bold">composite number</emphasis> is a counting number that is not prime. A composite number has factors other than 1 and the number itself.</para>
+</note>
 <para id="fs-id1167836515162">The counting numbers from 2 to 20 are listed in the table with their factors. Make sure to agree with the “prime” or “composite” label for each!</para>
 <media id="fs-id1167836418575" alt="This table has three columns, 19 rows and a header row. The header row labels each column: number, factors and prime or composite. The values in each row are as follows: number 2, factors 1, 2, prime; number 3, factors 1, 3, prime; number 4, factors 1, 2, 4, composite; number 5, factors, 1, 5, prime; number 6, factors 1, 2, 3, 6, composite; number 7, factors 1, 7, prime; number 8, factors 1, 2, 4, 8, composite; number 9, factors 1, 3, 9, composite; number 10, factors 1, 2, 5, 10, composite; number 11, factors 1, 11, prime; number 12, factors 1, 2, 3, 4, 6, 12, composite; number 13, factors 1, 13, prime; number 14, factors 1, 2, 7, 14, composite; number 15, factors 1, 3, 5, 15, composite; number 16, factors 1, 2, 4, 8, 16, composite; number 17, factors 1, 17, prime; number 18, factors 1, 2, 3, 6, 9, 18, composite; number 19, factors 1, 19, prime; number 20, factors 1, 2, 4, 5, 10, 20, composite.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_004_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_004_img.jpg"/>
 </media>
 <para id="fs-id1167829694566">The prime numbers less than 20 are 2, 3, 5, 7, 11, 13, 17, and 19. Notice that the only even prime number is 2.</para>
 <para id="fs-id1167833060885">A composite number can be written as a unique product of primes. This is called the <term>prime factorization</term> of the number. Finding the prime factorization of a composite number will be useful in many topics in this course.</para>
@@ -276,16 +277,16 @@
 </problem>
 <solution id="fs-id1167833056756">
 <media id="fs-id1167833056758" alt="Step 1 is to find two factors whose product is 48 and use these numbers to create two branches. The two branches originating from 48 are formed by the factors 2 and 24.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005a_img.jpg"/>
 </media>
 <media id="fs-id1167836542295" alt="Step 2 is to circle the prime factor. This completes that branch. In this case, 2 is circled as it is prime.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005b_img.jpg"/>
 </media>
 <media id="fs-id1167836513367" alt="Step 3 is to treat the composite factor as a product, break it into two more factors and continue the process. 24 is not prime. It is broken into 4 and 6. 4 and 6 are not prime. 4 is broken into its factors 2 and 2, both of which are circled. 6 is not prime. It is broken into factors 2 and 3, both of which are circled.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005c_img.jpg"/>
 </media>
 <media id="fs-id1167836507776" alt="Step 4 is to write the original composite number as the product of all the circled primes. 48 is 2 into 2 into 2 into 2 into 3.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_005d_img.jpg"/>
 </media>
 <para id="fs-id1171790680445"><newline/></para>
 <para id="fs-id1167836545840">We say <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow></m:math> is the prime factorization of 48. We generally write the primes in ascending order. Be sure to multiply the factors to verify your answer.</para>
@@ -336,16 +337,16 @@
 </problem>
 <solution id="fs-id1167829691681">
 <media id="fs-id1167836610203" alt="Step 1 is to write each number as a product of primes. The number 12 is written as a product of 2, 2 and 3. The number 18 is written as a product of 2, 3 and 3.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006a_img.jpg"/>
 </media>
 <media id="fs-id1167829692860" alt="Step 2 is to list the primes of each number such that primes are vertically matched when possible. The factors of 12 are listed as 2, 2 and 3. The factors of 18 are written below this. The first 2 at the top lines up with the first two at the bottom. The second 2 at the top does not line up with anything. The 3 at the top lines up with a 3 at the bottom. The last 3 at the bottom does not line up with anything. Hence, four columns are made.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006b_img.jpg"/>
 </media>
 <media id="fs-id1167836622827" alt="Step 3 is to bring down the number from each column. When a column has the same number at the top and the bottom, that number is brought down. When a column has only one number that number is brought down. The numbers brought down are 2, 2, 3 and 3.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006c_img.jpg"/>
 </media>
 <media id="fs-id1167836608172" alt="Step 4 is to multiply the factors. The numbers brought down are multiplied with each other to get the LCM. The LCM is 2 into 2 into 3 into 3 equal to 36.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_006d_img.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -450,7 +451,7 @@
 <note id="fs-id1167833056435">
 <title>Inequality</title>
 <media id="fs-id1171791260555" alt="For a less than b, a is to the left of b on the number line. For a greater than b, a is to the right of b on the number line.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_019_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_019_img.jpg"/>
 </media>
 </note>
 <para id="fs-id1167833397294">The expressions <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mi>b</m:mi></m:mrow></m:math> or <m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mi>b</m:mi></m:mrow></m:math> can be read from left to right or right to left, though in English we usually read from left to right. In general,</para>
@@ -514,14 +515,14 @@
 <equation id="fs-id1167835303120" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext mathvariant="bold">Equation</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext mathvariant="bold">English Sentence</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>The sum of three and five is equal to eight.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>14</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mi>n</m:mi><m:mspace width="0.2em"/><m:mtext>minus one equals fourteen.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>6</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>42</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>The product of six and seven is equal to forty-two.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>53</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mtext>is equal to fifty-three.</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mi>y</m:mi><m:mspace width="0.2em"/><m:mtext>plus nine is equal to two</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi><m:mspace width="0.2em"/><m:mtext>minus three.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
 <para id="fs-id1167836493942">Suppose we need to multiply 2 nine times. We could write this as <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>.</m:mo></m:mrow></m:math> This is tedious and it can be hard to keep track of all those 2s, so we use exponents. We write <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn></m:mrow></m:math> as <m:math><m:mrow><m:msup><m:mn>2</m:mn><m:mn>3</m:mn></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn></m:mrow></m:math> as <m:math><m:mrow><m:msup><m:mn>2</m:mn><m:mn>9</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math> In expressions such as <m:math><m:mrow><m:msup><m:mn>2</m:mn><m:mn>3</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> the 2 is called the <emphasis effect="italics">base</emphasis> and the 3 is called the <emphasis effect="italics">exponent</emphasis>. The <term class="no-emphasis">exponent</term> tells us how many times we need to multiply the <term class="no-emphasis">base</term>.</para>
 <media id="fs-id1167836321231" alt="The expression shows the number 2, with the number 3 written to its top right. 2 is labeled base and 3 is labeled exponent. This means multiply 2 by itself, three times, as in 2 times 2 times 2.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_007_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_007_img.jpg"/>
 </media>
 <note id="fs-id1167833059322">
 <title>Exponential Notation</title>
 <para id="fs-id1167833059328">We say <m:math><m:mrow><m:msup><m:mn>2</m:mn><m:mn>3</m:mn></m:msup></m:mrow></m:math> is in <emphasis effect="italics">exponential notation</emphasis> and <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn></m:mrow></m:math> is in <emphasis effect="italics">expanded notation</emphasis>.</para>
 <para id="fs-id1167836286079"><m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mi>n</m:mi></m:msup></m:mrow></m:math> means multiply <emphasis effect="italics">a</emphasis> by itself, <emphasis effect="italics">n</emphasis> times.</para>
 <media id="fs-id1167833059485" alt="The expression shown is a to the nth power. Here a is the base and n is the exponent. This is equal to a times a times a and so on, repeated n times. This has n factors.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_008_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_008_img.jpg"/>
 </media>
 <para id="fs-id1167836329008">The expression <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mi>n</m:mi></m:msup></m:mrow></m:math> is read <emphasis effect="italics">a</emphasis> to the <m:math><m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mi>t</m:mi><m:mi>h</m:mi></m:mrow></m:msup></m:mrow></m:math> power.</para>
 </note>
@@ -934,21 +935,23 @@
 <equation id="fs-id1167836652516" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Simplify.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mspace width="4em"/><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>x</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Add the coefficients.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mspace width="4em"/><m:mn>12</m:mn><m:mi>x</m:mi></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
 <example id="fs-id1167836652573">
 <title>How To Combine Like Terms</title>
-<exercise id="fs-id1167836652578"><problem id="fs-id1167836652581">
+<exercise id="fs-id1167836652578">
+<problem id="fs-id1167836652581">
 <para id="fs-id1167836652583">Simplify: <m:math><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo>+</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836611286">
 <media id="fs-id1167836611288" alt="Step 1 is to identify the like terms in 2 x squared plus 3 x plus 7 plus x squared plus 4 x plus 5. The like terms are 2 x squared and x squared, then 3 x and 4 x, then 7 and 5.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_014a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_014a_img.jpg"/>
 </media>
 <media id="fs-id1167836611301" alt="Step 2 is to rearrange the expression so the like terms are together. Hence, we have 2 x squared plus x squared plus 3 x plus 4 x plus 7 plus 5.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_014b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_014b_img.jpg"/>
 </media>
 <media id="fs-id1167836611314" alt="Step 3 is to combine the like terms to get 3 x squared plus 7 x plus 12.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_014c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_014c_img.jpg"/>
 </media>
 </solution>
-</exercise></example>
+</exercise>
+</example>
 <note id="fs-id1167836611328" class="try">
 <exercise id="fs-id1167836611332">
 <problem id="fs-id1167836611335">
@@ -1019,23 +1022,23 @@
 </table>
 <para id="fs-id1167836513163">Look closely at these phrases using the four operations:</para>
 <media id="fs-id1167836513166" alt="The sum of a and b, the difference of a and b, the product of a and b, the quotient of a and b.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_015_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_015_img.jpg"/>
 </media>
 <para id="fs-id1167836513178">Each phrase tells us to operate on two numbers. Look for the words <emphasis effect="italics">of</emphasis> and <emphasis effect="italics">and</emphasis> to find the numbers.</para>
 <example id="fs-id1167836513192">
 <exercise id="fs-id1167836513194">
 <problem id="fs-id1167836513196">
 <para id="fs-id1167836513198">Translate each English phrase into an algebraic expression:</para>
-<para id="fs-id1167836513201"><span class="token">ⓐ</span> the difference of <m:math><m:mrow><m:mn>14</m:mn><m:mi>x</m:mi></m:mrow></m:math> and 9 <span class="token">ⓑ</span> the quotient of <m:math><m:mrow><m:mn>8</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and 3 <span class="token">ⓒ</span> twelve more than <m:math><m:mi>y</m:mi></m:math> <span class="token">ⓓ</span> seven less than <m:math><m:mrow><m:mn>49</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+<para id="fs-id1167836513201"><span class="token">ⓐ</span> the difference of <m:math><m:mrow><m:mn>14</m:mn><m:mi>x</m:mi></m:mrow></m:math> and 9<newline/><span class="token">ⓑ</span> the quotient of <m:math><m:mrow><m:mn>8</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and 3<newline/><span class="token">ⓒ</span> twelve more than <m:math><m:mi>y</m:mi></m:math><newline/><span class="token">ⓓ</span> seven less than <m:math><m:mrow><m:mn>49</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836520411">
 <para id="fs-id1167836520413"><span class="token">ⓐ</span> The key word is <emphasis effect="italics">difference</emphasis>, which tells us the operation is subtraction. Look for the words <emphasis effect="italics">of</emphasis> and <emphasis effect="italics">and t</emphasis>o find the numbers to subtract.</para>
 <media id="fs-id1167836520436" alt="The difference of 14 x and 9, 14 x minus 9.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_016_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_016_img.jpg"/>
 </media>
 <para id="fs-id1167836520448"><span class="token">ⓑ</span> The key word is <emphasis effect="italics">quotient</emphasis>, which tells us the operation is division.</para>
 <media id="fs-id1167836520460" alt="The quotient of 8 y squared and 3, divide 8 y squared by 3, 8 y squared divided by 3. This can also be written as 8 y squared slash 3 or 8 y squared upon 3.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_017_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_017_img.jpg"/>
 </media>
 <para id="fs-id1167836520473"><span class="token">ⓒ</span> The key words are <emphasis effect="italics">more than.</emphasis> They tell us the operation is addition. <emphasis effect="italics">More than</emphasis> means “added to.”</para>
 <equation id="fs-id1167836520491" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="center"><m:mtext>twelve more than</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mtext>twelve added to</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
@@ -1048,7 +1051,7 @@
 <exercise id="fs-id1167836520239">
 <problem id="fs-id1167836520241">
 <para id="fs-id1167836520243">Translate the English phrase into an algebraic expression:</para>
-<para id="fs-id1167836520246"><span class="token">ⓐ</span> the difference of <m:math><m:mrow><m:mn>14</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and 13 <span class="token">ⓑ</span> the quotient of <m:math><m:mrow><m:mn>12</m:mn><m:mi>x</m:mi></m:mrow></m:math> and 2 <span class="token">ⓒ</span> 13 more than <m:math><m:mi>z</m:mi></m:math><newline/><span class="token">ⓓ</span> 18 less than <m:math><m:mrow><m:mn>8</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
+<para id="fs-id1167836520246"><span class="token">ⓐ</span> the difference of <m:math><m:mrow><m:mn>14</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and 13<newline/><span class="token">ⓑ</span> the quotient of <m:math><m:mrow><m:mn>12</m:mn><m:mi>x</m:mi></m:mrow></m:math> and 2<newline/><span class="token">ⓒ</span> 13 more than <m:math><m:mi>z</m:mi></m:math><newline/><span class="token">ⓓ</span> 18 less than <m:math><m:mrow><m:mn>8</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836520301">
 <para id="fs-id1167836520303"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>14</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>13</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>13</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>18</m:mn></m:mrow></m:math></para>
@@ -1059,7 +1062,7 @@
 <exercise id="fs-id1167836513472">
 <problem id="fs-id1167836513474">
 <para id="fs-id1167836513476">Translate the English phrase into an algebraic expression:</para>
-<para id="fs-id1167836513480"><span class="token">ⓐ</span> the sum of <m:math><m:mrow><m:mn>17</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and 19 <span class="token">ⓑ</span> the product of <m:math><m:mn>7</m:mn></m:math> and <emphasis effect="italics">y</emphasis> <span class="token">ⓒ</span> Eleven more than <emphasis effect="italics">x</emphasis> <span class="token">ⓓ</span> Fourteen less than 11<emphasis effect="italics">a</emphasis></para>
+<para id="fs-id1167836513480"><span class="token">ⓐ</span> the sum of <m:math><m:mrow><m:mn>17</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and 19<newline/><span class="token">ⓑ</span> the product of <m:math><m:mn>7</m:mn></m:math> and <emphasis effect="italics">y</emphasis><newline/><span class="token">ⓒ</span> Eleven more than <emphasis effect="italics">x</emphasis><newline/><span class="token">ⓓ</span> Fourteen less than 11<emphasis effect="italics">a</emphasis></para>
 </problem>
 <solution id="fs-id1167836513534">
 <para id="fs-id1167836513536"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>17</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>19</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>7</m:mn><m:mi>y</m:mi></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>11</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>11</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>14</m:mn></m:mrow></m:math></para>
@@ -1071,7 +1074,7 @@
 <exercise id="fs-id1167836513607">
 <problem id="fs-id1167836513609">
 <para id="fs-id1167836513612">Translate the English phrase into an algebraic expression:</para>
-<para id="fs-id1167836513615"><span class="token">ⓐ</span> eight times the sum of <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis> <span class="token">ⓑ</span> the sum of eight times <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis></para>
+<para id="fs-id1167836513615"><span class="token">ⓐ</span> eight times the sum of <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis><newline/><span class="token">ⓑ</span> the sum of eight times <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis></para>
 </problem>
 <solution id="fs-id1167836512532">
 <para id="fs-id1167836512534">There are two operation words—<emphasis effect="italics">times</emphasis> tells us to multiply and <emphasis effect="italics">sum</emphasis> tells us to add.</para>
@@ -1079,7 +1082,7 @@
 <equation id="fs-id1167836512583" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="center"><m:mtext>eight times the sum of</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mn>8</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
 <para id="fs-id1167836512634"><span class="token">ⓑ</span> To take a sum, we look for the words <emphasis effect="italics">of</emphasis> and <emphasis effect="italics">and</emphasis> to see what is being added. Here we are taking the sum <emphasis effect="italics">of</emphasis> eight times <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis>.</para>
 <media id="fs-id1167836512668" alt="The sum of 8 times x and y is 8 x plus y.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_018_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_018_img.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -1102,7 +1105,7 @@
 <para id="fs-id1167836621056"><span class="token">ⓐ</span> the difference of two times <emphasis effect="italics">x</emphasis> and 8<newline/><span class="token">ⓑ</span> two times the difference of <emphasis effect="italics">x</emphasis> and 8</para>
 </problem>
 <solution id="fs-id1167836621081">
-<para id="fs-id1167836621083"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-id1167836621083"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math> <span class="token">ⓑ</span><m:math><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </solution>
 </exercise>
 </note>
@@ -1198,7 +1201,7 @@ A number is divisible by:<newline/>
 The symbol “=” is called the equal sign.</item>
 <item><emphasis effect="bold">Inequality</emphasis><newline/>
 <media id="fs-id1167831871677" alt="For a less than b, a is to the left of b on the number line. For a greater than b, a is to the right of b on the number line.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_020_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_020_img.jpg"/>
 </media></item>
 <item><emphasis effect="bold">Inequality Symbols</emphasis><newline/>
 <table id="fs-id1167836519850" summary="The table describes inequality symbols in words. The symbols described are a is not equal to b, a is less than b, a is less than or equal to b, a is greater then b, a is greater than or equal to b.">
@@ -1611,7 +1614,7 @@ To simplify an expression, do all operations in the expression.</item>
 <para id="fs-id1167833329556"><newline/><span class="token">ⓐ</span> the sum of <m:math><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mi>b</m:mi></m:mrow></m:math><newline/><span class="token">ⓑ</span> the product of <m:math><m:mrow><m:mn>4</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow></m:math><newline/><span class="token">ⓒ</span> Fifteen more than <m:math><m:mi>m</m:mi></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mrow><m:mn>9</m:mn><m:mi>x</m:mi></m:mrow></m:math> less than <m:math><m:mrow><m:mn>121</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167833329644">
-<para id="fs-id1167833329646"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mi>b</m:mi></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>20</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>15</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>121</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
+<para id="fs-id1167833329646"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mi>b</m:mi></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>20</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>15</m:mn></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>121</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>x</m:mi></m:mrow></m:math> <m:math><m:mrow><m:mn>9</m:mn><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>121</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167833412878" class="material-set-2">
@@ -1705,7 +1708,7 @@ To simplify an expression, do all operations in the expression.</item>
 <title>Self Check</title>
 <para id="fs-id1167836524994"><span class="token">ⓐ</span> Use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167836525008" alt="This table has 4 columns, 7 rows and a header row. The header row labels each column I can, confidently, with some help and no, I don’t get it. The first column has the following statements: identify multiples and apply divisibility tests, find prime factorizations and least common multiples, use variables and algebraic symbols, simplify expressions using the order of operations, evaluate an expression, identify and combine like terms, translate English phrases to algebraic expressions. The remaining columns are blank.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_01_01_201_img.jpg"/>
 </media>
 <para id="fs-id1167836525017"><span class="token">ⓑ</span> If most of your checks were:</para>
 <para id="fs-id1167836525024"><emphasis effect="bold">…confidently.</emphasis> Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.</para>

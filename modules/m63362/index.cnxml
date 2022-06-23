@@ -13,6 +13,7 @@
 </list></md:abstract>
   <md:uuid>da8478b4-93bc-4919-81a1-5e3267050e7e</md:uuid>
 </metadata>
+
 <content>
 <note id="fs-id1167836300333" class="be-prepared">
 <para id="fs-id1167833272508">Before you get started, take this readiness quiz.</para>
@@ -59,13 +60,13 @@ If you missed this problem, review <link target-id="fs-id1167836731462" document
 </problem>
 <solution id="fs-id1167829936994">
 <media id="fs-id1167836707067" alt="The equation is open parentheses 5n minus 2 close parentheses open parentheses 6n minus 1 close parentheses equals 0. The product equals zero, so at least one factor must equal zero. Step 1 is set each factor equal to zero. So, 5n minus 2 equals 0 and 6n minus 1 equals 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_001a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_001a.jpg"/>
 </media>
 <media id="fs-id1167836393361" alt="Step 2 is to solve the linear equations. So, we get n equal to 2 by 5 and n equal to 1 by 6.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_001b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_001b.jpg"/>
 </media>
 <media id="fs-id1167836602556" alt="Step 3 is to check by substituting each solution separately into the original equation.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_001c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_001c.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -110,19 +111,19 @@ If you missed this problem, review <link target-id="fs-id1167836731462" document
 </problem>
 <solution id="fs-id1167825835938">
 <media id="fs-id1167829833272" alt="The equation is 2 y squared equals 13y plus 45. Step 1 is to write it in standard form a x squared plus bx plus c. So we have 2 y squared minus 13y minus 45 equals 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002a_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002a.jpg"/>
 </media>
 <media id="fs-id1167836608668" alt="Step 2 is to factor the quadratic expression. So we have 2y plus 5, y minus 9 equals 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002b_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002b.jpg"/>
 </media>
 <media id="fs-id1167833022106" alt="Step 3 is to use the zero product property. Setting each factor equal to zero, we have two linear equations: 2y plus 5 equals 0 and y minus 9 equals 0.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002c_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002c.jpg"/>
 </media>
 <media id="fs-id1167836635419" alt="Step 4 is to solve the linear equations. We get, y equals minus 5 by 2 and y equals 9.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002d_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002d.jpg"/>
 </media>
 <media id="fs-id1167836595901" alt="Step 5 is to check by substituting each solution separately into the original equation">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002e_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_002e.jpg"/>
 </media>
 </solution>
 </exercise>
@@ -293,7 +294,7 @@ If you missed this problem, review <link target-id="fs-id1167836731462" document
 <exercise id="fs-id1167829599152">
 <problem id="fs-id1167829719035">
 <para id="fs-id1167833071676">For the function <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo>,</m:mo></m:mrow></m:math></para>
-<para id="fs-id1167836389548"><span class="token">ⓐ</span> find <emphasis effect="italics">x</emphasis> when <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>6</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> find two points that lie on the graph of the function.</para>
+<para id="fs-id1167836389548"><span class="token">ⓐ</span> find <emphasis effect="italics">x</emphasis> when <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>6</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> find two points that lie on the graph of the function.</para>
 </problem>
 <solution id="fs-id1167836444737">
 <para id="fs-id1167836492865"><span class="token">ⓐ</span><newline/>
@@ -306,7 +307,7 @@ If you missed this problem, review <link target-id="fs-id1167836731462" document
 <exercise id="fs-id1167836692073">
 <problem id="fs-id1167836526181">
 <para id="fs-id1167829692807">For the function <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn><m:mo>,</m:mo></m:mrow></m:math></para>
-<para id="fs-id1167836392650"><span class="token">ⓐ</span> find <emphasis effect="italics">x</emphasis> when <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> Find two points that lie on the graph of the function.</para>
+<para id="fs-id1167836392650"><span class="token">ⓐ</span> find <emphasis effect="italics">x</emphasis> when <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> Find two points that lie on the graph of the function.</para>
 </problem>
 <solution id="fs-id1167836318962">
 <para id="fs-id1167836556194"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−3</m:mn></m:mrow></m:math> or <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn><m:mo>,</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
@@ -317,7 +318,7 @@ If you missed this problem, review <link target-id="fs-id1167836731462" document
 <exercise id="fs-id1167836667141">
 <problem id="fs-id1167836545876">
 <para id="fs-id1167836559968">For the function <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>,</m:mo></m:mrow></m:math></para>
-<para id="fs-id1167836456286"><span class="token">ⓐ</span> find <emphasis effect="italics">x</emphasis> when <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−4</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> Find two points that lie on the graph of the function.</para>
+<para id="fs-id1167836456286"><span class="token">ⓐ</span> find <emphasis effect="italics">x</emphasis> when <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−4</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> Find two points that lie on the graph of the function.</para>
 </problem>
 <solution id="fs-id1167836622813">
 <para id="fs-id1167836379075"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> or <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>−4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>−4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
@@ -334,7 +335,7 @@ If you missed this problem, review <link target-id="fs-id1167836731462" document
 <exercise id="fs-id1167829624424">
 <problem id="fs-id1167836618856">
 <para id="fs-id1167829597813">For the function <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn><m:mo>,</m:mo></m:mrow></m:math> find</para>
-<para id="fs-id1167836449758"><span class="token">ⓐ</span> the zeros of the function, <span class="token">ⓑ</span> any <emphasis effect="italics">x</emphasis>-intercepts of the graph of the function, <span class="token">ⓒ</span> any <emphasis effect="italics">y</emphasis>-intercepts of the graph of the function</para>
+<para id="fs-id1167836449758"><span class="token">ⓐ</span> the zeros of the function,<newline/><span class="token">ⓑ</span> any <emphasis effect="italics">x</emphasis>-intercepts of the graph of the function<newline/><span class="token">ⓒ</span> any <emphasis effect="italics">y</emphasis>-intercepts of the graph of the function</para>
 </problem>
 <solution id="fs-id1167836321778">
 <para id="fs-id1167836319053"><span class="token">ⓐ</span> To find the zeros of the function, we need to find when the function value is 0.<newline/>
@@ -350,7 +351,7 @@ Since <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>)<
 <exercise id="fs-id1167829811740">
 <problem id="fs-id1167836516254">
 <para id="fs-id1167836362622">For the function <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>,</m:mo></m:mrow></m:math> find</para>
-<para id="fs-id1167836601250"><span class="token">ⓐ</span> the zeros of the function, <span class="token">ⓑ</span> any <emphasis effect="italics">x</emphasis>-intercepts of the graph of the function, <span class="token">ⓒ</span> any <emphasis effect="italics">y</emphasis>-intercepts of the graph of the function.</para>
+<para id="fs-id1167836601250"><span class="token">ⓐ</span> the zeros of the function<newline/><span class="token">ⓑ</span> any <emphasis effect="italics">x</emphasis>-intercepts of the graph of the function<newline/><span class="token">ⓒ</span> any <emphasis effect="italics">y</emphasis>-intercepts of the graph of the function.</para>
 </problem>
 <solution id="fs-id1167836327353">
 <para id="fs-id1167829686321"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> or <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
@@ -361,7 +362,7 @@ Since <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>)<
 <exercise id="fs-id1167829693111">
 <problem id="fs-id1167836625132">
 <para id="fs-id1167836360997">For the function <m:math><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>13</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>15</m:mn><m:mo>,</m:mo></m:mrow></m:math> find</para>
-<para id="fs-id1167836622572"><span class="token">ⓐ</span> the zeros of the function, <span class="token">ⓑ</span> any <emphasis effect="italics">x</emphasis>-intercepts of the graph of the function, <span class="token">ⓒ</span> any <emphasis effect="italics">y</emphasis>-intercepts of the graph of the function.</para>
+<para id="fs-id1167836622572"><span class="token">ⓐ</span> the zeros of the function<newline/><span class="token">ⓑ</span> any <emphasis effect="italics">x</emphasis>-intercepts of the graph of the function<newline/><span class="token">ⓒ</span> any <emphasis effect="italics">y</emphasis>-intercepts of the graph of the function.</para>
 </problem>
 <solution id="fs-id1167829595141">
 <para id="fs-id1167833060987"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−3</m:mn></m:mrow></m:math> or <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn><m:mo>,</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>−15</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
@@ -514,7 +515,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <note id="fs-id1167829716003" class="try">
 <exercise id="fs-id1167836693448">
 <problem id="fs-id1167836528456">
-<para id="fs-id1167829748017">A rectangular sign has an area of 30 square feet. The length of the sign is one foot more than the width. Find the length and width of the sign.</para>
+<para id="fs-id1167829748017">A rectangular sign has area 30 square feet. The length of the sign is one foot more than the width. Find the length and width of the sign.</para>
 </problem>
 <solution id="fs-id1167833047687">
 <para id="fs-id1167829879335">The width is 5 feet and length is 6 feet.</para>
@@ -524,7 +525,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <note id="fs-id1167836619400" class="try">
 <exercise id="fs-id1167836416135">
 <problem id="fs-id1167829689459">
-<para id="fs-id1167836697766">A rectangular patio has an area of 180 square feet. The width of the patio is three feet less than the length. Find the length and width of the patio.</para>
+<para id="fs-id1167836697766">A rectangular patio has area 180 square feet. The width of the patio is three feet less than the length. Find the length and width of the patio.</para>
 </problem>
 <solution id="fs-id1167829691910">
 <para id="fs-id1167836550460">The length of the patio is 12 feet and the width 15 feet.</para>
@@ -533,7 +534,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 </note>
 <para id="fs-id1167836283441">In the next example, we will use the Pythagorean Theorem <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math> This formula gives the relation between the legs and the hypotenuse of a right triangle.</para>
 <media id="fs-id1167833227285" alt="Figure shows a right triangle with the shortest side being a, the second side being b and the hypotenuse being c.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_004_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_004_img.jpg"/>
 </media>
 <para id="fs-id1167836289692">We will use this formula to in the next example.</para>
 
@@ -542,7 +543,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <problem id="fs-id1167836529160">
 <para id="fs-id1167836392939">A boat’s sail is in the shape of a right triangle as shown. The hypotenuse will be 17 feet long. The length of one side will be 7 feet less than the length of the other side. Find the lengths of the sides of the sail.</para>
 <media id="fs-id1167836688021" alt="Figure shows a right triangle with the shortest side being x, the second side being x minus 7 and the hypotenuse being 17.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_005_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_005_img.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1167833025641">
@@ -652,7 +653,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <exercise id="fs-id1167836503972">
 <problem id="fs-id1167829748344">
 <para id="fs-id1167836330850">Dennis is going to throw his rubber band ball upward from the top of a campus building. When he throws the rubber band ball from 80 feet above the ground, the function <m:math><m:mrow><m:mi>h</m:mi><m:mrow><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−16</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>64</m:mn><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>80</m:mn></m:mrow></m:math> models the height, <emphasis effect="italics">h</emphasis>, of the ball above the ground as a function of time, <emphasis effect="italics">t.</emphasis> Find:</para>
-<para id="fs-id1167836526114"><span class="token">ⓐ</span> the zeros of this function which tell us when the ball hits the ground, <span class="token">ⓑ</span> when the ball will be 80 feet above the ground, <span class="token">ⓒ</span> the height of the ball at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> seconds.</para>
+<para id="fs-id1167836526114"><span class="token">ⓐ</span> the zeros of this function which tell us when the ball hits the ground<newline/><span class="token">ⓑ</span> when the ball will be 80 feet above the ground<newline/><span class="token">ⓒ</span> the height of the ball at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> seconds.</para>
 </problem>
 <solution id="fs-id1167836612483">
 <para id="fs-id1167836576454"><span class="token">ⓐ</span> The zeros of this function are found by solving <m:math><m:mrow><m:mi>h</m:mi><m:mrow><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> This will tell us when the ball will hit the ground.<newline/>
@@ -672,7 +673,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <exercise id="fs-id1167836706000">
 <problem id="fs-id1167836706002">
 <para id="fs-id1167836530068">Genevieve is going to throw a rock from the top a trail overlooking the ocean. When she throws the rock upward from 160 feet above the ocean, the function <m:math><m:mrow><m:mi>h</m:mi><m:mrow><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−16</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>48</m:mn><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>160</m:mn></m:mrow></m:math> models the height, <emphasis effect="italics">h</emphasis>, of the rock above the ocean as a function of time, <emphasis effect="italics">t</emphasis>. Find:</para>
-<para id="fs-id1167836525352"><span class="token">ⓐ</span> the zeros of this function which tell us when the rock will hit the ocean, <span class="token">ⓑ</span> when the rock will be 160 feet above the ocean, <span class="token">ⓒ</span> the height of the rock at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>1.5</m:mn></m:mrow></m:math> seconds.</para>
+<para id="fs-id1167836525352"><span class="token">ⓐ</span> the zeros of this function which tell us when the rock will hit the ocean<newline/><span class="token">ⓑ</span> when the rock will be 160 feet above the ocean.<newline/><span class="token">ⓒ</span> the height of the rock at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>1.5</m:mn></m:mrow></m:math> seconds.</para>
 </problem>
 <solution id="fs-id1167836585148">
 <para id="fs-id1167829596335"><span class="token">ⓐ</span> 5 <span class="token">ⓑ</span> 0;3 <span class="token">ⓒ</span> 196</para>
@@ -683,7 +684,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <exercise id="fs-id1167829744740">
 <problem id="fs-id1167836684102">
 <para id="fs-id1167836297652">Calib is going to throw his lucky penny from his balcony on a cruise ship. When he throws the penny upward from 128 feet above the ground, the function <m:math><m:mrow><m:mi>h</m:mi><m:mrow><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−16</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>32</m:mn><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>128</m:mn></m:mrow></m:math> models the height, <emphasis effect="italics">h</emphasis>, of the penny above the ocean as a function of time, <emphasis effect="italics">t</emphasis>. Find:</para>
-<para id="fs-id1167836545880"><span class="token">ⓐ</span> the zeros of this function which is when the penny will hit the ocean, <span class="token">ⓑ</span> when the penny will be 128 feet above the ocean, <span class="token">ⓒ</span> the height the penny will be at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> seconds which is when the penny will be at its highest point.</para>
+<para id="fs-id1167836545880"><span class="token">ⓐ</span> the zeros of this function which is when the penny will hit the ocean<newline/><span class="token">ⓑ</span> when the penny will be 128 feet above the ocean.<newline/><span class="token">ⓒ</span> the height the penny will be at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> seconds which is when the penny will be at its highest point.</para>
 </problem>
 <solution id="fs-id1167836531169">
 <para id="fs-id1167836531171"><span class="token">ⓐ</span> 4 <span class="token">ⓑ</span> 0;2 <span class="token">ⓒ</span> 144</para>
@@ -782,7 +783,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <para id="fs-id1167824585340"><m:math><m:mrow><m:mn>5</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>26</m:mn><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>24</m:mn></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836449436">
-<para id="fs-id1167829579647"><m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>−4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167829579647"><m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>−5</m:mn><m:mtext>/</m:mtext><m:mn>4</m:mn><m:mo>,</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836635232">
@@ -886,7 +887,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <para id="fs-id1167833085274"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>12</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836357235">
-<para id="fs-id1167836357237"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−4</m:mn><m:mtext>/</m:mtext><m:mn>3</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167836357237"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn><m:mo>,</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−1</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836362558">
@@ -899,7 +900,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <para id="fs-id1167836626549"><m:math><m:mrow><m:mn>20</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>60</m:mn><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−45</m:mn></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836504055">
-<para id="fs-id1167836504057"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167836504057"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−2</m:mn><m:mtext>/</m:mtext><m:mn>3</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836450605">
@@ -930,12 +931,12 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 </exercise>
 <exercise id="fs-id1167836540286">
 <problem id="fs-id1167836312383">
-<para id="fs-id1167836312385"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>−32</m:mn><m:mi>y</m:mi></m:mrow></m:math></para>
+<para id="fs-id1167836312385"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>−32</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
 </problem>
 </exercise>
 <exercise id="fs-id1167836286867">
 <problem id="fs-id1167836329708">
-<para id="fs-id1167836329710"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>24</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>–</m:mo><m:mn>9</m:mn><m:mi>p</m:mi></m:mrow></m:math></para>
+<para id="fs-id1167836329710"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>24</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>p</m:mi></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167836493553">
 <para id="fs-id1167829715616"><m:math><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>p</m:mi><m:mo>=</m:mo><m:mn>¾</m:mn></m:mrow></m:math></para>
@@ -964,7 +965,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <para id="fs-id1167829811262"><m:math><m:mrow><m:mn>36</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>24</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>−4</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167824732569">
-<para id="fs-id1167824732571"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>–1</m:mn><m:mtext>/</m:mtext><m:mn>3</m:mn></m:mrow></m:math></para>
+<para id="fs-id1167824732571"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>3</m:mn></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836529024">
@@ -1060,7 +1061,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <para id="fs-id1167829579686">The area of a rectangular carpet is 28 square feet. The length is three feet more than the width. Find the length and the width of the carpet.</para>
 </problem>
 <solution id="fs-id1167833086705">
-<para id="fs-id1167833086707"><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> and 7</para>
+<para id="fs-id1167833086707"><m:math><m:mrow><m:mn>−4</m:mn></m:mrow></m:math> and 7</para>
 </solution>
 </exercise>
 <exercise id="fs-id1167836288744" class="material-set-2">
@@ -1070,7 +1071,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 </exercise>
 <exercise id="fs-id1167836432337" class="material-set-2">
 <problem id="fs-id1167836311198">
-<para id="fs-id1167836311201">The area of a bulletin board is 55 square feet. The length is four feet less than three times the width. Find the length and the width of the a bulletin board.</para>
+<para id="fs-id1167836311201">The area of a bulletin board is 55 feet. The length is four feet less than three times the width. Find the length and the width of the a bulletin board.</para>
 </problem>
 <solution id="fs-id1167833381374">
 <para id="fs-id1167833381376">5, 11</para>
@@ -1110,7 +1111,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <exercise id="fs-id1167836610606" class="material-set-2">
 <problem id="fs-id1167836610609">
 <para id="fs-id1167836610611">Juli is going to launch a model rocket in her back yard. When she launches the rocket, the function <m:math><m:mrow><m:mi>h</m:mi><m:mrow><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−16</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>32</m:mn><m:mi>t</m:mi></m:mrow></m:math> models the height, <emphasis effect="italics">h</emphasis>, of the rocket above the ground as a function of time, <emphasis effect="italics">t</emphasis>. Find:</para>
-<para id="fs-id1167829716526"><span class="token">ⓐ</span> the zeros of this function which tells us when the rocket will hit the ground. <span class="token">ⓑ</span> the time the rocket will be 16 feet above the ground.</para>
+<para id="fs-id1167829716526"><span class="token">ⓐ</span> the zeros of this function which tells us when the penny will hit the ground. <span class="token">ⓑ</span> the time the rocket will be 16 feet above the ground.</para>
 </problem>
 <solution id="fs-id1167836433972">
 <para id="fs-id1167836543376"><span class="token">ⓐ</span> 0, 2 <span class="token">ⓑ</span> 1</para>
@@ -1143,7 +1144,7 @@ There are two values for <emphasis effect="italics">n</emphasis> that are soluti
 <title>Self Check</title>
 <para id="fs-id1167836321166"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.</para>
 <media id="fs-id1167833272086" alt="This table has 4 columns, 3 rows and a header row. The header row labels each column: I can, confidently, with some help and no, I don’t get it. The first column has the following statements: solve quadratic equations by using the zero product property, solve quadratic equations by factoring and solve applications modeled by quadratic equations.">
-<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_201_img_new.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_06_05_201_img.jpg"/>
 </media>
 <para id="fs-id1167836612849"><span class="token">ⓑ</span> Overall, after looking at the checklist, do you think you are well-prepared for the next section? Why or why not?</para>
 </section>
